@@ -9,6 +9,4 @@ LinkedIn, but I prefer to communicate via email.
 
 You may be interested in my resume or github.
 
-I try to limit my publically visible online activity, so there isn't much here.
-But I do use a few social networks.  If you know me personally, go ahead and
-hunt me down.  It won't be hard.
+There isn't much here (yet). Perhaps one day there will be more.
