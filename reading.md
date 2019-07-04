@@ -22,6 +22,6 @@ and its companion,
 
 # Abandoned Books
 
-I often browse through books and end up abandoning them. Here's why.
+I often browse through books and end up abandoning them. Here's a list.
 
 ### 2019 July
