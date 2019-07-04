@@ -18,7 +18,7 @@ I'm not much of a critic but I'll mention if I have strong opinions about things
 "[If Susan Can Learn Physics, So Can You](https://www.susanjfowler.com/blog/2016/8/26/from-the-fledgling-physicist-archives-if-susan-can-learn-physics-so-can-you)"
 and its companion,
 "[So You Want To Learn Physics...](https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics)"
---- wonderful and simple stuff. It reminded me of goals I had long forgotten.*
+--- wonderful and simple stuff. It reminded me of goals I forgot about.*
 
 # Abandoned Books
 
