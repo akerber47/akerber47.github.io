@@ -33,6 +33,10 @@ Skimmed:
 
 And a brief, aborted stab at Knuth's Art of Computer Programming (hah!).
 
+*This is around when I realized it's much harder to study while
+working full-time and not actively required to. This list is one way to
+start fixing things...*
+
 ### 2017
 
 Mid-2017 is when I finished my PhD in pure math. Before then all my studying

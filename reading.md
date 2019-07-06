@@ -20,8 +20,20 @@ and its companion,
 "[So You Want To Learn Physics...](https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics)"
 --- wonderful and simple stuff. It reminded me of goals I forgot about.*
 
+### 2019 June
+
+- The Cal Newport trilogy: *Deep Work*, *So Good They Can't Ignore You*, and
+  *Digital Minimalism*
+- Stroustrup, *A Tour of C++*
+- Andrews et al, *Hidden Persuasion: 33 Psychological Influence Techniques in
+  Advertising*
+- Martin, *A Game of Thrones* (2nd read)
+- Crispin, *The Hutt Gambit* and *Rebel Dawn*
+
 # Abandoned Books
 
 I often browse through books and end up abandoning them. Here's a list.
 
 ### 2019 July
+- Oualline, *Practical C++ Programming*
+- Hofstadter, *Metamagical Themas*
