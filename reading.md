@@ -12,6 +12,7 @@ I'm not much of a critic but I'll mention if I have strong opinions about things
 
 ### 2019 July
 
+- Jacobson and Colon, *The 9/11 Report: A Graphic Adaptation*
 - Fussell, *Class: A Guide Through the American Status System*
 
   Brilliant until he gets to "Class X," which doesn't exist. I encourage
@@ -44,6 +45,7 @@ I often browse through books and end up abandoning them. Here's a list.
 
 ### 2019 July
 
+- *The Michelin Guide: San Francisco*
 - *The Michelin Guide: London*
 - Oualline, *Practical C++ Programming*
 - Hofstadter, *Metamagical Themas*
