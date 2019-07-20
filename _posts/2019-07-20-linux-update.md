@@ -93,6 +93,10 @@ my best.
 - I'll try tweaking colors for specific commands once I have more stuff
   installed.
 
+#### Software
+
+(Work in progress, will update)
+
 #### References
 - [SuperUser: How to change input keyboard layout while in
   console](https://superuser.com/questions/404457/how-to-change-input-keyboard-layout-while-in-console)
