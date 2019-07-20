@@ -45,6 +45,7 @@ I often browse through books and end up abandoning them. Here's a list.
 
 ### 2019 July
 
+- Mills, *The Obsoletes*
 - *The Michelin Guide: San Francisco*
 - *The Michelin Guide: London*
 - Oualline, *Practical C++ Programming*
