@@ -12,9 +12,9 @@ I'm not much of a critic but I'll mention if I have strong opinions about things
 
 ### 2019 July
 
-- Lepore, *This America: The Case for the Nation*
-- Jacobson and Colon, *The 9/11 Report: A Graphic Adaptation*
-- Fussell, *Class: A Guide Through the American Status System*
+- Jill Lepore, *This America: The Case for the Nation*
+- Sid Jacobson and Ernie Colon, *The 9/11 Report: A Graphic Adaptation*
+- Paul Fussell, *Class: A Guide Through the American Status System*
 
   Brilliant until he gets to "Class X," which doesn't exist. I encourage
   authors writing about class and society to take a hard look at any "different
@@ -34,11 +34,11 @@ I'm not much of a critic but I'll mention if I have strong opinions about things
 
 - The Cal Newport trilogy: *Deep Work*, *So Good They Can't Ignore You*, and
   *Digital Minimalism*
-- Stroustrup, *A Tour of C++*
-- Andrews et al, *Hidden Persuasion: 33 Psychological Influence Techniques in
-  Advertising*
-- Martin, *A Game of Thrones* (2nd read)
-- Crispin, *The Hutt Gambit* and *Rebel Dawn*
+- Bjarne Stroustrup, *A Tour of C++*
+- Marc Andrews et al, *Hidden Persuasion: 33 Psychological Influence Techniques
+  in Advertising*
+- George R. R. Martin, *A Game of Thrones* (2nd read)
+- A. C. Crispin, *The Hutt Gambit* and *Rebel Dawn*
 
 # Abandoned Books
 
@@ -46,8 +46,8 @@ I often browse through books and end up abandoning them. Here's a list.
 
 ### 2019 July
 
-- Mills, *The Obsoletes*
+- Simeon Mills, *The Obsoletes*
 - *The Michelin Guide: San Francisco*
 - *The Michelin Guide: London*
-- Oualline, *Practical C++ Programming*
-- Hofstadter, *Metamagical Themas*
+- Steve Oualline, *Practical C++ Programming*
+- Douglas Hofstadter, *Metamagical Themas*
