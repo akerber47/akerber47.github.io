@@ -12,6 +12,7 @@ I'm not much of a critic but I'll mention if I have strong opinions about things
 
 ### 2019 July
 
+- Lepore, *This America: The Case for the Nation*
 - Jacobson and Colon, *The 9/11 Report: A Graphic Adaptation*
 - Fussell, *Class: A Guide Through the American Status System*
 
