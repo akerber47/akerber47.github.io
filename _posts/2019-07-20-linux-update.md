@@ -93,9 +93,31 @@ my best.
 - I'll try tweaking colors for specific commands once I have more stuff
   installed.
 
-#### Software
+#### Development Software
 
-(Work in progress, will update)
+I was surprised that there's a new end user interface to install Debian/Ubuntu
+software. The new (to me) command is called `apt` and it's a replacement for
+things like `aptitude` which I used to use. It provides nicely configured
+wrappers around `apt-get`, `apt-cache`, `dpkg`, etc.
+
+Programs (all installed with `sudo apt install ____`):
+- `powertop` (the one system management program I need)
+- `vim-nox` (`vim-tiny` is too small -- I want my syntax highlighting!)
+- `tmux`
+- `git`
+- `python3`
+- `clang` and friends (`clang-format`, `clang-tidy`, `clang-tools`,
+  `clang-8-examples`)
+- `rustc`
+
+Offline documentation:
+- `elinks` and `elinks-doc` (to read documentation)
+- `vim-doc`
+- `git-doc`
+- `clang-8-doc`
+- `rust-doc`
+
+That's it! **My tiny SSD only has 5GB used -- 90% free space!**
 
 #### References
 - [SuperUser: How to change input keyboard layout while in
@@ -112,3 +134,14 @@ my best.
   Linux](https://superuser.com/questions/314035/is-there-a-way-to-alter-the-colors-used-in-tty-consoles-on-linux)
 - [Unix & Linux SE: Colorizing your terminal and shell
   environment](https://unix.stackexchange.com/questions/148/colorizing-your-terminal-and-shell-environment)
+- [AskUbuntu: What's the difference between apt and
+  apt-get](https://askubuntu.com/questions/445384/what-is-the-difference-between-apt-and-apt-get)
+- [Debian Administrator's Handbook: aptitude, apt-get, and
+  apt](https://debian-handbook.info/browse/stable/sect.apt-get.html)
+- [AskUbuntu: What are the differences between the different vim packages
+  available in Ubuntu?](https://askubuntu.com/questions/281886/what-are-the-differences-between-the-different-vim-packages-available-in-ubuntu)
+- [AskUbuntu: What features does vim-tiny
+  have?](https://askubuntu.com/questions/104138/what-features-does-vim-tiny-have)
+- [ArchWiki: Powertop](https://wiki.archlinux.org/index.php/Powertop)
+- [StackOverflow: What's the difference between .bashrc, .bash_profile, and
+  .environment?](https://stackoverflow.com/questions/415403/whats-the-difference-between-bashrc-bash-profile-and-environment)
