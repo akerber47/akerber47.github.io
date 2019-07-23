@@ -43,4 +43,52 @@ With all that in mind, there are some good reasons to stay.
     handle things online and look things up quickly at work. But I don't
     particularly enjoy that shallow mode of working. (Quick google search, type
     in what I found, rinse and repeat...). I do it because I have to. I think
-    that in the long term
+    that in the long term looking things up the slow way, despite having more
+    friction, allows for more discovery and creativity in the learning process.
+    (This is why going to the bookstore or library is more fun and satisfying
+    than clicking through books on Amazon.)
+- There are many resources, both fun and educational, that are positive and
+  only available on the internet: silly videos, blogs, news sources, essays,
+  fiction, webcomics, etc.
+  - Counterpoint: Most of this media is better consumed slowly offline in any
+    case. With webcomics and news, I often lose the thread.  Blogs, essays, and
+    fiction require deliberation. Anything that's really worth reading is worth
+    printing out or finding in book form.
+- This wouldn't be a problem if I could just control myself. Other people use
+  the internet without any trouble, at work and at home, so why I can't I just
+  grow up and deal with it?
+  - Counterpoint: The first step is admitting I have a problem.
+
+With all that in mind, I'll be keeping a timer on my study/goals page of how
+many days I've successfully gone without wasting time on the internet. This is
+a pretty loosely defined thing. Last time I tried this project, I made it about
+40-50 days before my definition of "wasting time" started slipping, and about
+70-80 days before I quit. I would like to make this a permanent lifestyle
+choice, not just a sprint. It is healthier for me. Really, when it comes to
+wasting time, I know it when I see it -- but here's a quick list:
+- Reading comment sections, anywhere.
+- Reading comics, fiction, blogs, and papers. If they're worth it, print them
+  out!
+- Reading news, news aggregators, or work news/fun groups.
+- Looking at pictures and watching videos. (Exception: watching with
+  friends/family)
+- Reading media commentary or Amazon reviews. (Exception: deliberate purchasing
+  goals, like "I need a textbook about X").
+- Surfing aimlessly on information sites (like Stanford Encyclopedia of
+  Philosophy, Wikipedia, etc).
+- Scrolling through feeds on social media.
+- And, in general, opening a web browser without a goal in mind.
+
+The following are NOT wasting time:
+- Any internet use that's necessary for my work.
+- Communicating with friends and family.
+- Briefly and deliberately checking specific reading sites for things to
+  buy/print. But this is the most dangerous part and I'll keep it confined to
+  2 hours per week, on Friday evenings.
+
+And finally, when I'm tempted to go surf the web, here are some things I'll do
+instead:
+- Go for a walk or move around outside.
+- Read a fun or educational book.
+- Find someone to talk to.
+- Contact friends and family and see how they're doing.
