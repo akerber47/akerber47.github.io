@@ -86,9 +86,28 @@ The following are NOT wasting time:
   buy/print. But this is the most dangerous part and I'll keep it confined to
   2 hours per week, on Friday evenings.
 
-And finally, when I'm tempted to go surf the web, here are some things I'll do
-instead:
+And when I'm tempted to go surf the web, here are some things I'll do instead:
 - Go for a walk or move around outside.
 - Read a fun or educational book.
 - Find someone to talk to.
 - Contact friends and family and see how they're doing.
+
+Finally, the hardest part of avoiding temptation is persistence over time.
+Nowadays, friction to start surfing the web is very low, especially when I'm at
+work.  Luckily work is when I have the most willpower and motivation to focus.
+As for the rest of the time, here are some ground rules / strategies I'll
+follow to keep the internet "at arm's length." Think of this as being like
+a dieter choosing not to buy junk food at the store (so they have to go out and
+buy it each time).
+- When I get home from work, put down my work bag (with my work laptop and
+  phone) in a specific location at home. Don't pick it up again until I'm ready
+  for work the next day.
+- Keep my old, slow personal laptop closed and asleep unless I need to use it
+  for specific online activities (finance, email, etc.)
+- Use devices which I can't surf the web on as much as possible:
+  - I'll do my typing and programming on my heavily-restricted Linux laptop,
+    which supports only wired internet and has no window system installed.
+  - My personal phone has parental controls enabled which prevent use of web
+    browsers.
+
+I look forward to a happier, more productive, and more relaxed life.
