@@ -1,6 +1,13 @@
 ---
-title: Alvin Kerber -- Study Plans
+title: Alvin Kerber -- Goals and Study Plans
 ---
+
+# Goals
+
+This is to track ongoing personal goals. At some point I should add some
+historical goals here too.
+
+- [No internet](no-internet) -- **1 day**. *(Previous record: about 70 days).*
 
 # Study Plans
 
