@@ -17,16 +17,14 @@ I'm not much of a critic but I'll mention if I have strong opinions about things
 - Jill Lepore, *This America: The Case for the Nation*
 - Sid Jacobson and Ernie Colon, *The 9/11 Report: A Graphic Adaptation*
 - Paul Fussell, *Class: A Guide Through the American Status System*
-
-  Brilliant until he gets to "Class X," which doesn't exist. I encourage
+  - Brilliant until he gets to "Class X," which doesn't exist. I encourage
   authors writing about class and society to take a hard look at any "different
   and special" class, especially if it's the class the author is in or wishes
   they were in.  Gray Tribe, Technocrats, Optimates, and G1 are all examples of
   this same phenomenon.
-
 - [Susan Fowler's blog](https://www.susanjfowler.com/blog)
 
-  Most famous for her Uber piece, but I particularly want to point to
+  - Most famous for her Uber piece, but I particularly want to point to
   "[If Susan Can Learn Physics, So Can You](https://www.susanjfowler.com/blog/2016/8/26/from-the-fledgling-physicist-archives-if-susan-can-learn-physics-so-can-you)"
   and its companion,
   "[So You Want To Learn Physics...](https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics)"
@@ -50,9 +48,11 @@ I often browse through books and end up abandoning them. Here's a list.
 
 ### 2019 July
 
+- David McCullough Jr., *You Are Not Special... and Other Encouragements*
+  - *"Old Man Yells At Cloud"*
 - Martin Aigner and Gunter M. Ziegler, *Proofs from THE BOOK*
 - Timothy Gowers ed., *The Princeton Companion to Mathematics*
-  *Too busy to study pure math books, but I'll return to these someday...*
+  - *Too busy to study pure math books, but I'll return to these someday...*
 - Simeon Mills, *The Obsoletes*
 - *The Michelin Guide: San Francisco*
 - *The Michelin Guide: London*
