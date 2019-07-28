@@ -12,6 +12,7 @@ I'm not much of a critic but I'll mention if I have strong opinions about things
 
 ### 2019 July
 
+- Tim Wu, *The Curse of Bigness: Antitrust in the New Gilded Age*
 - Bret Easton Ellis, *White*
 - Jill Lepore, *This America: The Case for the Nation*
 - Sid Jacobson and Ernie Colon, *The 9/11 Report: A Graphic Adaptation*
@@ -33,13 +34,15 @@ I'm not much of a critic but I'll mention if I have strong opinions about things
 
 ### 2019 June
 
-- The Cal Newport trilogy: *Deep Work*, *So Good They Can't Ignore You*, and
-  *Digital Minimalism*
+- Cal Newport, *Deep Work*
+- Cal Newport, *So Good They Can't Ignore You*
+- Cal Newport, *Digital Minimalism*
 - Bjarne Stroustrup, *A Tour of C++*
 - Marc Andrews et al, *Hidden Persuasion: 33 Psychological Influence Techniques
   in Advertising*
 - George R. R. Martin, *A Game of Thrones* (2nd read)
-- A. C. Crispin, *The Hutt Gambit* and *Rebel Dawn*
+- A. C. Crispin, *The Hutt Gambit*
+- A. C. Crispin, *Rebel Dawn*
 
 # Abandoned Books
 
@@ -47,6 +50,9 @@ I often browse through books and end up abandoning them. Here's a list.
 
 ### 2019 July
 
+- Martin Aigner and Gunter M. Ziegler, *Proofs from THE BOOK*
+- Timothy Gowers ed., *The Princeton Companion to Mathematics*
+  *Too busy to study pure math books, but I'll return to these someday...*
 - Simeon Mills, *The Obsoletes*
 - *The Michelin Guide: San Francisco*
 - *The Michelin Guide: London*
