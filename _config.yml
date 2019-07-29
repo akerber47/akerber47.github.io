@@ -11,3 +11,10 @@ defaults:
 # Site data
 title: Alvin Kerber
 description: math and computers and stuff
+url: https://alvinkerber.net
+author: Alvin Kerber
+
+excerpt_separator: <!--more-->
+
+plugins:
+  - jekyll-feed

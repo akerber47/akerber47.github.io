@@ -1,5 +1,5 @@
 ---
-title: Internet: Just Say No
+title: Internet -- Just Say No
 ---
 
 I really should stay off the internet. This probably doesn't need too much
