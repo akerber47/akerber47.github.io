@@ -12,6 +12,7 @@ I'm not much of a critic but I'll mention if I have strong opinions about things
 
 ### 2019 July
 
+- Christopher Chaboute, *Alone*
 - Tim Wu, *The Curse of Bigness: Antitrust in the New Gilded Age*
 - Bret Easton Ellis, *White*
 - Jill Lepore, *This America: The Case for the Nation*
@@ -42,17 +43,25 @@ I'm not much of a critic but I'll mention if I have strong opinions about things
 - A. C. Crispin, *The Hutt Gambit*
 - A. C. Crispin, *Rebel Dawn*
 
+# Postponed Books
+
+These are books I didn't have the time to finish at the time, but would really
+like to come back to in the future.
+
+### 2019 July
+
+- Martin Aigner and Gunter M. Ziegler, *Proofs from THE BOOK*
+- Timothy Gowers ed., *The Princeton Companion to Mathematics*
+
 # Abandoned Books
 
 I often browse through books and end up abandoning them. Here's a list.
 
 ### 2019 July
 
+- James McManus, *Positively Fifth Street*
+- Robert Shea and Robert Anton Wilson, *The Illuminatus! Trilogy*
 - David McCullough Jr., *You Are Not Special... and Other Encouragements*
-  - *"Old Man Yells At Cloud"*
-- Martin Aigner and Gunter M. Ziegler, *Proofs from THE BOOK*
-- Timothy Gowers ed., *The Princeton Companion to Mathematics*
-  - *Too busy to study pure math books, but I'll return to these someday...*
 - Simeon Mills, *The Obsoletes*
 - *The Michelin Guide: San Francisco*
 - *The Michelin Guide: London*
