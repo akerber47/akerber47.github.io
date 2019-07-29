@@ -145,3 +145,15 @@ That's it! **My tiny SSD only has 5GB used -- 90% free space!**
 - [ArchWiki: Powertop](https://wiki.archlinux.org/index.php/Powertop)
 - [StackOverflow: What's the difference between .bashrc, .bash_profile, and
   .environment?](https://stackoverflow.com/questions/415403/whats-the-difference-between-bashrc-bash-profile-and-environment)
+
+### Addendum (update 2019-07-28)
+
+For some inexplicable reason, sometimes when rebooting my laptop it fails to
+pick the correct font and reverts back to the ugly, tiny default font. I don't
+know how to fix this long-term. I fixed it short-term by re-running
+```
+sudo dpkg-reconfigure console-setup
+```
+a bunch of times, and rebooting until it worked. My best guess is some kind of
+race condition / misconfiguration of the boot process. But I really have no
+idea how that could happen.
