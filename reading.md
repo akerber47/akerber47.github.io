@@ -12,6 +12,7 @@ I'm not much of a critic but I'll mention if I have strong opinions about things
 
 ### 2019 July
 
+- Terry Pratchett, *The Color of Magic*
 - Christopher Chaboute, *Alone*
 - Tim Wu, *The Curse of Bigness: Antitrust in the New Gilded Age*
 - Bret Easton Ellis, *White*
@@ -59,6 +60,8 @@ I often browse through books and end up abandoning them. Here's a list.
 
 ### 2019 July
 
+- Trevor Misfeldt et al, *The Elements of C++ Style*
+- Peter Prinz and Ulla Kirch-Prinz, *C Pocket Reference*
 - James McManus, *Positively Fifth Street*
 - Robert Shea and Robert Anton Wilson, *The Illuminatus! Trilogy*
 - David McCullough Jr., *You Are Not Special... and Other Encouragements*
