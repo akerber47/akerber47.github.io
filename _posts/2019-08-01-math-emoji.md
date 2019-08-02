@@ -8,8 +8,8 @@ Emojis. We should use emojis in math. Yes, I'm serious.
 
 The only problem I can see is that unlike mathematical symbols which are highly
 abstract, emojis have visceral, concrete meaning. But honestly that may be an
-advantage! Many symbols in math are meant to have visceral meaning, it's just
-difficult to convey in such a limited medium. I'll think more about this and
-see if I can put together an exmaple of some kind. I think differential
-geometry or algebraic geometry both quickly run into the requisite symbol
-complexity.
+advantage! Many symbols in math are meant to immediate "gut meaning" but it's
+just difficult to convey to the reader in such a limited medium. I'll think
+more about this and see if I can put together an exmaple of some kind. I think
+differential geometry or algebraic geometry both quickly run into the requisite
+symbol complexity.
