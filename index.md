@@ -17,5 +17,5 @@ You may be interested in my [resume](Alvin Kerber resume.pdf) *(last updated
 - [Log](log.html) ([archive](archive.html))
 - [Goals and Study Plans](study.html)
 - [Reading List](reading.html)
-
+- [Procrastination Station](blogs.html)
 
