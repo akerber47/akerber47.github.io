@@ -19,11 +19,6 @@ I'm not much of a critic but I'll mention if I have strong opinions about things
 - Jill Lepore, *This America: The Case for the Nation*
 - Sid Jacobson and Ernie Colon, *The 9/11 Report: A Graphic Adaptation*
 - Paul Fussell, *Class: A Guide Through the American Status System*
-  - Brilliant until he gets to "Class X," which doesn't exist. I encourage
-  authors writing about class and society to take a hard look at any "different
-  and special" class, especially if it's the class the author is in or wishes
-  they were in.  Gray Tribe, Technocrats, Optimates, and G1 are all examples of
-  this same phenomenon.
 - [Susan Fowler's blog](https://www.susanjfowler.com/blog)
 
   - Most famous for her Uber piece, but I particularly want to point to
