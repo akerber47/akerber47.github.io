@@ -30,6 +30,7 @@ To clarify the difference between this and the reading list:
 
 ### CS
 - Skeina, Algorithm Design Manual
+  - Ch 1 complete (2019-08-03)
 
 followed by
 
