@@ -7,8 +7,16 @@ title: Alvin Kerber -- Goals and Study Plans
 This is to track ongoing personal goals. At some point I should add some
 historical goals here too.
 
-- [No internet](no-internet) -- **8 days** (since 2019-07-20, inclusive).
+# Practices (see [Results vs Practices](2019/08/03/results-vs-practices.html)
+
+- [No internet](2019/07/22/no-internet.html) -- **2 weeks** (since 2019-07-20).
   *(Previous record: about 70 days).*
+- Writing 3x / week, at least 5 minutes each time -- **3 weeks** (since
+  2019-07-13).
+- Home study 2x / week, at least 1 hour each time -- **2 weeks** (since
+  2019-07-20)
+- Math/CS eclectic reading 3x/week, at least 15 minutes each time -- **just
+  started.*
 
 # Study Plans
 
