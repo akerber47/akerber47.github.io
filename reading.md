@@ -10,6 +10,9 @@ sit down and think hard about what I've read in the past that's valuable.
 
 I'm not much of a critic but I'll mention if I have strong opinions about things.
 
+### 2019 August
+- Terry Pratchett, *Sourcery*
+
 ### 2019 July
 
 - Terry Pratchett, *The Color of Magic*
