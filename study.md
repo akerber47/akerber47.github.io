@@ -14,9 +14,10 @@ historical goals here too.
 - Writing 3x / week, at least 5 minutes each time -- **3 weeks** (since
   2019-07-13).
 - Home study 2x / week, at least 1 hour each time -- **2 weeks** (since
-  2019-07-20)
+  2019-07-20).
 - Math/CS eclectic reading 3x/week, at least 15 minutes each time -- **just
-  started.*
+  started.**
+- Finish work at 5pm each day -- **just started.**
 
 # Study Plans
 
