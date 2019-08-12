@@ -12,6 +12,9 @@ I'm not much of a critic but I'll mention if I have strong opinions about things
 
 ### 2019 August
 - Terry Pratchett, *Sourcery*
+- Peter van der Linden, *Expert C Programming: Deep C Secrets*
+- Terry Pratchett, *Wyrd Sisters*
+- Terry Pratchett, *Pyramids*
 
 ### 2019 July
 
@@ -55,6 +58,11 @@ like to come back to in the future.
 # Abandoned Books
 
 I often browse through books and end up abandoning them. Here's a list.
+
+### 2019 August
+- Josh Carter, *New Programmer's Survival Manual*
+- Andrew Hunt and David Thomas, *The Pragmatic Programmer*
+- Josh Patterson and Adam Gibson, *Deep Learning: A Practitioner's Approach*
 
 ### 2019 July
 
