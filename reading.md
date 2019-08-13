@@ -50,6 +50,9 @@ I'm not much of a critic but I'll mention if I have strong opinions about things
 These are books I didn't have the time to finish at the time, but would really
 like to come back to in the future.
 
+### 2019 August
+- Studs Terkel, *Working*
+
 ### 2019 July
 
 - Martin Aigner and Gunter M. Ziegler, *Proofs from THE BOOK*
@@ -58,8 +61,12 @@ like to come back to in the future.
 # Abandoned Books
 
 I often browse through books and end up abandoning them. Here's a list.
+(Honestly, most of the point here is to stop me from forgetting and trying to
+read these again.)
 
 ### 2019 August
+- Kyran Dale, *Dava Visualization with Python and JavaScript*
+- Joel Spolsky, *Joel on Software*
 - Josh Carter, *New Programmer's Survival Manual*
 - Andrew Hunt and David Thomas, *The Pragmatic Programmer*
 - Josh Patterson and Adam Gibson, *Deep Learning: A Practitioner's Approach*
