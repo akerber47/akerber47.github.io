@@ -56,6 +56,9 @@ These are books I didn't have the time to finish at the time, but would really
 like to come back to in the future.
 
 ### 2019 August
+- Betsy Beyer et al ed, *Site Reliability Engineering*
+- James Whittaker et al, *How Google Tests Software*
+- Frederick P. Brooks Jr, *The Mythical Man-Month*
 - Studs Terkel, *Working*
 
 ### 2019 July
