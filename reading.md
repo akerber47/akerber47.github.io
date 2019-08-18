@@ -11,6 +11,7 @@ sit down and think hard about what I've read in the past that's valuable.
 I'm not much of a critic but I'll mention if I have strong opinions about things.
 
 ### 2019 August
+- Katherine S. Newman, *Downhill From Here*
 - Jayinee Basu, *The City of Folding Faces*
 - Eugene T. Gendlin, *Focusing*
 - Nicholas Carr, *Utopia is Creepy*
@@ -73,6 +74,7 @@ I often browse through books and end up abandoning them. Here's a list.
 read these again.)
 
 ### 2019 August
+- Steve Klabnik and Carol Nichols, *The Rust Programming Language*
 - Kyran Dale, *Dava Visualization with Python and JavaScript*
 - Joel Spolsky, *Joel on Software*
 - Josh Carter, *New Programmer's Survival Manual*
