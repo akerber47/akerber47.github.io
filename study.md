@@ -9,15 +9,14 @@ historical goals here too.
 
 # Practices (see [Results vs Practices](2019/08/03/results-vs-practices.html)
 
-- [No internet](2019/07/22/no-internet.html) -- **2 weeks** (since 2019-07-20).
+- [No internet](2019/07/22/no-internet.html) -- **4 weeks** (since 2019-07-20).
   *(Previous record: about 70 days).*
-- Writing 3x / week, at least 5 minutes each time -- **3 weeks** (since
-  2019-07-13).
-- Home study 2x / week, at least 1 hour each time -- **2 weeks** (since
+- Writing 3x / week, at least 5 minutes each time -- **just started** (since
+  2019-08-17).
+- Home study 2x / week, at least 1 hour each time -- **4 weeks** (since
   2019-07-20).
-- Math/CS eclectic reading 3x/week, at least 15 minutes each time -- **just
-  started.**
-- Finish work at 5pm each day -- **just started.**
+- Math/CS eclectic reading 3x/week, at least 15 minutes each time -- **2
+  weeks** (since 2019-08-03).
 
 # Study Plans
 
@@ -32,6 +31,8 @@ To clarify the difference between this and the reading list:
 ### CS
 - Skeina, Algorithm Design Manual
   - Ch 1 complete (2019-08-03)
+- C++ programming practice
+- Rust programming practice
 
 followed by
 

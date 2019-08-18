@@ -11,6 +11,11 @@ sit down and think hard about what I've read in the past that's valuable.
 I'm not much of a critic but I'll mention if I have strong opinions about things.
 
 ### 2019 August
+- Jayinee Basu, *The City of Folding Faces*
+- Eugene T. Gendlin, *Focusing*
+- Nicholas Carr, *Utopia is Creepy*
+- Terry Pratchett, *Eric*
+- Terry Pratchett, *Guards! Guards!*
 - Terry Pratchett, *Sourcery*
 - Peter van der Linden, *Expert C Programming: Deep C Secrets*
 - Terry Pratchett, *Wyrd Sisters*
