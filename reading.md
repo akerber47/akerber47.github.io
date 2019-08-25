@@ -11,6 +11,7 @@ sit down and think hard about what I've read in the past that's valuable.
 I'm not much of a critic but I'll mention if I have strong opinions about things.
 
 ### 2019 August
+- Lisa A. Nichols, *Vessel*
 - Katherine S. Newman, *Downhill From Here*
 - Jayinee Basu, *The City of Folding Faces*
 - Eugene T. Gendlin, *Focusing*
@@ -57,6 +58,7 @@ These are books I didn't have the time to finish at the time, but would really
 like to come back to in the future.
 
 ### 2019 August
+- Peter Gottschling, *Discovering Modern C++*
 - Betsy Beyer et al ed, *Site Reliability Engineering*
 - James Whittaker et al, *How Google Tests Software*
 - Frederick P. Brooks Jr, *The Mythical Man-Month*
@@ -74,6 +76,11 @@ I often browse through books and end up abandoning them. Here's a list.
 read these again.)
 
 ### 2019 August
+- Jnathan Maberry, *Glimpse*
+- Daniel Findlay, *Year of the Orphan*
+- John Scalzi, *Miniatures*
+- David Halberstam ed., *The Best American Sports Writing of the Century*
+- Michel Loeve, *Probability Theory I*
 - Steve Klabnik and Carol Nichols, *The Rust Programming Language*
 - Kyran Dale, *Dava Visualization with Python and JavaScript*
 - Joel Spolsky, *Joel on Software*
