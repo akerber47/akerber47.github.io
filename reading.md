@@ -67,7 +67,10 @@ like to come back to in the future.
 - Philip E. Tetlock, *Expert Political Judgment*
 - Steve McConnell, *Software Estimation*
 - Leonard Susskind and Art Friedman, *Special Relativity and Classical Field
-  Theory*
+  Theory: The Theoretical Minimum*
+- Leonard Susskind and George Hrabovsky, *The Theoretical Minimum*
+- Ed Miller, *Getting Started in Hold 'Em*
+- David Sklansky and Ed Miller, *No Limit Hold 'Em: Theory and Practice*
 
 ### 2019 August
 - Peter Gottschling, *Discovering Modern C++*
@@ -92,6 +95,7 @@ read these again.)
 - Larry J. Stephens, *Advanced Statistics Demystified*
 - Deborah Rumsey, *Statistics Essentials for Dummies*
 - Andy Field, *An Adventure in Statistics*
+- David Foster Wallace, *The Pale King*
 
 ### 2019 August
 - Jnathan Maberry, *Glimpse*
