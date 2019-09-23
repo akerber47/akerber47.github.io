@@ -11,6 +11,12 @@ sit down and think hard about what I've read in the past that's valuable.
 I'm not much of a critic but I'll mention if I have strong opinions about things.
 
 ### 2019 September
+- Franz Kafka, *The Unhappiness of Being a Single Man: Essential Stories*
+- Don Aslett and Laura Aslett Simons, *Make Your House Do The Housework*
+- Don Aslett, *Is There Life After Housework?*
+- Terry Pratchett, *Equal Rites*
+- Jeffrey Bussgang, *Entering StartUpLand*
+- Sabine Hossenfelder, *Lost in Math*
 - David Graeber, *Bullshit Jobs*
 - Mur Lafferty, *Six Wakes*
 - Robert B. Cialdini, *Influence*
@@ -63,6 +69,7 @@ These are books I didn't have the time to finish at the time, but would really
 like to come back to in the future.
 
 ### 2019 September
+- Jim Blandy and Jason Orendorff, *Programming Rust*
 - Philip E. Tetlock and Dan Gardner, *Superforecasting*
 - Philip E. Tetlock, *Expert Political Judgment*
 - Steve McConnell, *Software Estimation*
@@ -91,6 +98,18 @@ I often browse through books and end up abandoning them. Here's a list.
 read these again.)
 
 ### 2019 September
+- Harry Hochstadt, *Differential Equations: A Modern Approach*
+- Georgi P. Tolstov, *Fourier Series*
+- Jon Loeliger and Matthew McCullough, *Version Control with Git*
+- Brian Godsey, *Think Like a Data Scientist*
+- Athanasios Papoulis, *Probability, Random Variables, and Stochastic
+  Processes*
+- Jon Bentley, *Programming Pearls*
+- Herb Sutter, *Exceptional C++*
+- Murray R. Spiegel, *Schaum's Outlines: Fourier Analysis*
+- Richard Bronson, *Schaum's Outlines: Differential Equations*
+- Murray R. Spiegel et al, *Schaum's Outlines: Vector Analysis*
+- Jean-Philippe Aumasson, *Serious Cryptography*
 - Timothy Ferriss, *Tribe of Mentors*
 - Larry J. Stephens, *Advanced Statistics Demystified*
 - Deborah Rumsey, *Statistics Essentials for Dummies*
