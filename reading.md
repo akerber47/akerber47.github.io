@@ -11,6 +11,11 @@ sit down and think hard about what I've read in the past that's valuable.
 I'm not much of a critic but I'll mention if I have strong opinions about things.
 
 ### 2019 September
+- Stephen M. Walt, *The Hell of Good Intentions*
+- Craig Hovey, *The Accountant's Guide to the Universe*
+- Dustin Boswell and Trevor Foucher, *The Art of Readable Code*
+- Apostolos Doxiadis and Christos H. Papadimitriou, *Logicomix*
+- Edward R. Tufte, *The Visual Display of Quantitative Information*
 - Franz Kafka, *The Unhappiness of Being a Single Man: Essential Stories*
 - Don Aslett and Laura Aslett Simons, *Make Your House Do The Housework*
 - Don Aslett, *Is There Life After Housework?*
@@ -68,6 +73,10 @@ I'm not much of a critic but I'll mention if I have strong opinions about things
 These are books I didn't have the time to finish at the time, but would really
 like to come back to in the future.
 
+### 2019 October
+- Anna Paskevska, *Ballet: From the First Plie to Mastery*
+- Max Hastings, *Vietnam: An Epic Tragedy, 1945-1975*
+
 ### 2019 September
 - Jim Blandy and Jason Orendorff, *Programming Rust*
 - Philip E. Tetlock and Dan Gardner, *Superforecasting*
@@ -96,6 +105,15 @@ like to come back to in the future.
 I often browse through books and end up abandoning them. Here's a list.
 (Honestly, most of the point here is to stop me from forgetting and trying to
 read these again.)
+
+### 2019 October
+- Anthony O'Neill, *The Dark Side*
+- K Chess, *Famous Men Who Never Lived*
+- Joseph Fink, *Alice Isn't Dead*
+- Clyde P. Stickney and Roman L. Weil, *Financial Accounting*
+- Jae K. Shim and Joel G. Siegel, *Schaum's Outlines: Financial Accounting*
+- Clifford V. Johnson, *The Dialogues: Conversations about the Nature of the
+  Universe*
 
 ### 2019 September
 - Harry Hochstadt, *Differential Equations: A Modern Approach*
