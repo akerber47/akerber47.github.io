@@ -10,6 +10,15 @@ sit down and think hard about what I've read in the past that's valuable.
 
 I'm not much of a critic but I'll mention if I have strong opinions about things.
 
+### 2019 October
+- Kevin Sitto and Marshall Preser, *Field Guide to Hadoop*
+- Scott Myers, *Effective C++*
+- Kevin Kwan, *Rich People Problems*
+- W. Bruce Cameron, *The Midnight Plan of the Repo Man*
+- T. T. Monday, *The Setup Man*
+- Kevin Kwan, *China Rich Girlfriend*
+- Arthur Holland Mitchell, *Eyes in the Sky*
+
 ### 2019 September
 - Stephen M. Walt, *The Hell of Good Intentions*
 - Craig Hovey, *The Accountant's Guide to the Universe*
@@ -74,6 +83,8 @@ These are books I didn't have the time to finish at the time, but would really
 like to come back to in the future.
 
 ### 2019 October
+- Andreu Mas-Colell et al, *Microeconomic Theory*
+- Tom Wolfe, *The Right Stuff*
 - Anna Paskevska, *Ballet: From the First Plie to Mastery*
 - Max Hastings, *Vietnam: An Epic Tragedy, 1945-1975*
 
@@ -107,6 +118,8 @@ I often browse through books and end up abandoning them. Here's a list.
 read these again.)
 
 ### 2019 October
+- Eric Redmond and Jim R. Wilson, *Seven Databases in Seven Weeks*
+- Hal R. Varian, *Microeconomic Analysis*
 - Anthony O'Neill, *The Dark Side*
 - K Chess, *Famous Men Who Never Lived*
 - Joseph Fink, *Alice Isn't Dead*
