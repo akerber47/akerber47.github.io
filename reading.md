@@ -11,6 +11,7 @@ sit down and think hard about what I've read in the past that's valuable.
 I'm not much of a critic but I'll mention if I have strong opinions about things.
 
 ### 2019 October
+- Sam Williams, *Free as in Freedom*
 - Kevin Sitto and Marshall Preser, *Field Guide to Hadoop*
 - Scott Myers, *Effective C++*
 - Kevin Kwan, *Rich People Problems*
