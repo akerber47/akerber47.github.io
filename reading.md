@@ -10,7 +10,14 @@ sit down and think hard about what I've read in the past that's valuable.
 
 I'm not much of a critic but I'll mention if I have strong opinions about things.
 
+### 2019 November
+- Cary McClelland, *Silicon City*
+- Finn Murphy, *The Long Haul*
+- Scott Myers, *More Effective C++*
+- Scott Myers, *Effective Modern C++*
+
 ### 2019 October
+- Scott Myers, *Effective STL*
 - Sam Williams, *Free as in Freedom*
 - Kevin Sitto and Marshall Preser, *Field Guide to Hadoop*
 - Scott Myers, *Effective C++*
