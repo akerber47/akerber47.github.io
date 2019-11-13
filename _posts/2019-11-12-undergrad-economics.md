@@ -10,6 +10,10 @@ perspective.
 - Constraints are typically linear (budgets, etc). Functions to optimize
   are highly nonlinear. Choice of function to optimize depends on model.
 
+- Common restrictions on these functions: monotonicity, convexity,
+  quasi-convexity. Functions are (of course) smooth except for finitely many
+  discontinuities.
+
 - A surprising number of intuitive qualitative results (monopoly behavior,
   taxation effects, etc) fall out of these simple models.
 
