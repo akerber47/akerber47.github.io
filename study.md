@@ -41,6 +41,10 @@ followed by
 
 ## Historical / Completed
 
+### 2019
+- MIT 14.01
+- MIT 18.650
+
 ### 2018
 
 I bought a bunch of books but didn't get through most of them.

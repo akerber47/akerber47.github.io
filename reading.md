@@ -11,6 +11,8 @@ sit down and think hard about what I've read in the past that's valuable.
 I'm not much of a critic but I'll mention if I have strong opinions about things.
 
 ### 2019 November
+- Hal R. Varian, *Intermediate Microeconomics*
+- Kevin Roose, *Young Money*
 - Cary McClelland, *Silicon City*
 - Finn Murphy, *The Long Haul*
 - Scott Myers, *More Effective C++*
