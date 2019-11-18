@@ -11,6 +11,7 @@ sit down and think hard about what I've read in the past that's valuable.
 I'm not much of a critic but I'll mention if I have strong opinions about things.
 
 ### 2019 November
+- W. Bruce Cameron, *Repo Madness*
 - Hal R. Varian, *Intermediate Microeconomics*
 - Kevin Roose, *Young Money*
 - Cary McClelland, *Silicon City*
@@ -126,6 +127,11 @@ like to come back to in the future.
 I often browse through books and end up abandoning them. Here's a list.
 (Honestly, most of the point here is to stop me from forgetting and trying to
 read these again.)
+
+### 2019 November
+- Enrico Moretti, *The New Geography of Jobs*
+- Geoffrey A. Jehle and Philip J. Reny, Advanced Microeconomic Theory
+- David M. Kreps, *A Course in Microeconomic Theory*
 
 ### 2019 October
 - Eric Redmond and Jim R. Wilson, *Seven Databases in Seven Weeks*
