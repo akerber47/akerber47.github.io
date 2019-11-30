@@ -11,6 +11,9 @@ sit down and think hard about what I've read in the past that's valuable.
 I'm not much of a critic but I'll mention if I have strong opinions about things.
 
 ### 2019 November
+- Joel J. Lerner, *Schaum's Outlines: Bookkeeping and Accounting*
+- Chad Harbach, *The Art of Fielding*
+- Terry Pratchett, *Moving Pictures*
 - W. Bruce Cameron, *Repo Madness*
 - Hal R. Varian, *Intermediate Microeconomics*
 - Kevin Roose, *Young Money*
@@ -92,6 +95,9 @@ I'm not much of a critic but I'll mention if I have strong opinions about things
 
 These are books I didn't have the time to finish at the time, but would really
 like to come back to in the future.
+
+### 2019 October
+- Benjamin Graham, *The Intelligent Investor*
 
 ### 2019 October
 - Andreu Mas-Colell et al, *Microeconomic Theory*
