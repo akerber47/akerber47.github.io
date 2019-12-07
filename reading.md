@@ -10,6 +10,10 @@ sit down and think hard about what I've read in the past that's valuable.
 
 I'm not much of a critic but I'll mention if I have strong opinions about things.
 
+### 2019 December
+- Steven Pressfield, *The War of Art*
+- Terry Pratchett, *Small Gods*
+
 ### 2019 November
 - Joel J. Lerner, *Schaum's Outlines: Bookkeeping and Accounting*
 - Chad Harbach, *The Art of Fielding*
