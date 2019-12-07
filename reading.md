@@ -138,6 +138,14 @@ I often browse through books and end up abandoning them. Here's a list.
 (Honestly, most of the point here is to stop me from forgetting and trying to
 read these again.)
 
+### 2019 December
+- Milton and Rose Friedman, *Free to Choose*
+- Mary Adkins, *When You Read This*
+- Ernest Cline, *Ready Player One*
+- Sarah Davis-Goff, *Last Ones Left Alive*
+- Margot Lee Shetterly, *Hidden Figures*
+- Sarah Boslaugh, *Statistics in a Nutshell*
+
 ### 2019 November
 - Enrico Moretti, *The New Geography of Jobs*
 - Geoffrey A. Jehle and Philip J. Reny, Advanced Microeconomic Theory
