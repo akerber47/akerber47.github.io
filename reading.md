@@ -11,6 +11,9 @@ sit down and think hard about what I've read in the past that's valuable.
 I'm not much of a critic but I'll mention if I have strong opinions about things.
 
 ### 2019 December
+- U.S. Department of Justice, *The Mueller Report*
+- Terry Pratchett, *Mort*
+- Terry Pratchett, *Witches Abroad*
 - Steven Pressfield, *The War of Art*
 - Terry Pratchett, *Small Gods*
 
@@ -100,6 +103,19 @@ I'm not much of a critic but I'll mention if I have strong opinions about things
 These are books I didn't have the time to finish at the time, but would really
 like to come back to in the future.
 
+### 2019 December
+- C. S. Lewis, *The Screwtape Letters*
+- Carol Loomis, *Tap Dancing to Work*
+- Adam Tooze, *Crashed*
+- Spencer Rascoff and Stan Humphries, *Zillow Talk*
+- Louis Hyman, *Temp*
+- Samuel Karlin and Howard M. Taylor, *A First Course in Stochastic Processes*
+- David Pnueli and Chaim Gitfinger, *Fluid Mechanics*
+- Jane Jacobs, *The Death and Life of Great American Cities*
+- Sarah Glidden, *Rolling Blackouts*
+- Russell Jurney, *Agile Data Science 2.0*
+- Olivier Blanchard and David R. Johnson, *Macroeconomics*
+
 ### 2019 October
 - Benjamin Graham, *The Intelligent Investor*
 
@@ -139,6 +155,9 @@ I often browse through books and end up abandoning them. Here's a list.
 read these again.)
 
 ### 2019 December
+- Mel Lindauer et al, *The Boglehead's Guide to Investing*
+- Jason Kelly, *The Neatest Little Guide to Stock Market Investing*
+- Noam Cohen, *The Know-It-Alls*
 - Milton and Rose Friedman, *Free to Choose*
 - Mary Adkins, *When You Read This*
 - Ernest Cline, *Ready Player One*
