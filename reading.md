@@ -8,9 +8,19 @@ I read when I can. Maybe one day I'll get this more organized. Sadly I only
 started this in July 2019, so lots of older content is lost. Maybe one day I'll
 sit down and think hard about what I've read in the past that's valuable.
 
-I'm not much of a critic but I'll mention if I have strong opinions about things.
+### 2020 January
+- Anthony Daniels, *I Am C-3PO*
+- Greg Lukianoff and Jonathan Haidt, *The Coddling of the American Mind*
 
 ### 2019 December
+- Robert Tracy, *Ailey Spirit*
+- Terry Pratchett, *Soul Music*
+- Terry Pratchett, *Lords and Ladies*
+- Terry Pratchett, *Reaper Man*
+- Ellen Forney, *Marbles*
+- Ellen Forney, *Rock Steady*
+- Rich Burlew, *The Order of the Stick: Don't Split the Party*
+- Rich Burlew, *The Order of the Stick: Utterly Dwarfed*
 - U.S. Department of Justice, *The Mueller Report*
 - Terry Pratchett, *Mort*
 - Terry Pratchett, *Witches Abroad*
