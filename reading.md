@@ -9,6 +9,9 @@ started this in July 2019, so lots of older content is lost. Maybe one day I'll
 sit down and think hard about what I've read in the past that's valuable.
 
 ### 2020 January
+- Eric Tyson and Robert S. Griswold, *Real Estate Investing for Dummies*
+- Jasper Fforde, *Early Riser*
+- Esme Weijun Wang, *The Collected Schizophrenias*
 - Anthony Daniels, *I Am C-3PO*
 - Greg Lukianoff and Jonathan Haidt, *The Coddling of the American Mind*
 
@@ -113,6 +116,9 @@ sit down and think hard about what I've read in the past that's valuable.
 These are books I didn't have the time to finish at the time, but would really
 like to come back to in the future.
 
+### 2020 January
+- Erich Gamma et al, *Design Patterns*
+
 ### 2019 December
 - C. S. Lewis, *The Screwtape Letters*
 - Carol Loomis, *Tap Dancing to Work*
@@ -163,6 +169,14 @@ like to come back to in the future.
 I often browse through books and end up abandoning them. Here's a list.
 (Honestly, most of the point here is to stop me from forgetting and trying to
 read these again.)
+
+### 2020 January
+- Peter Leeds, *Penny Stocks for Dummies*
+- Barbara Rockefeller, *Technical Analysis for Dummies*
+- Arvind Narayanan et al, *Bitcoin and Cryptocurrency Technologies*
+- Gary W. Eldred, *Investing in Real Estate*
+- David Lereah, *All Real Estate is Local*
+- Steve Chader et al, *Hold*
 
 ### 2019 December
 - Mel Lindauer et al, *The Boglehead's Guide to Investing*
