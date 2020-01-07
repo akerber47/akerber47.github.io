@@ -1,4 +1,4 @@
-Stanford Physics:
+Physics
 
 Honors Intro sequence:
 - Morin and/or Kelppner/Kolnikov (Mechanics)
@@ -13,36 +13,40 @@ Upper div UG:
 Sanjoy Mahajan, The Art of Insight in Science and Engineering
 - really good book! "think like a physicist"
 
-Stanford Econ:
+Econ
 
-- Econ 1 -> prof's book (Taylor)
+Econ 1 intro
+- prof's book (Taylor)
 - high school stuff
 
-Varian, Intermediate Micro
-- Econ 50
+Econ 50 intermediate micro
+Varian, Intermediate Micro with Calculus
 - really clear and good!
 
+Econ 52 intermediate macro
 Jones, Macroeconomics
-- Econ 52
 - ok, but a bit high school ish
 
-202 micro for non econ grads (what do the PhD students get?)
+Econ 202 micro for non econ grads
+(what do the PhD students get?)
 - Jehlo or Kreps or Mas-Colell
 
 lots of boring 200 courses
 
-270 Economics is just Casella-Berger (lol)
+Econ 270 Econometrics
+- just Casella-Berger (lol)
 
-286 Game Theroy Fidenberg-Tirole and Fidenberg-Levine or Osborne-Rubinstein or Topkis
+Econ 286 Game Theroy
+- Fidenberg-Tirole and Fidenberg-Levine or Osborne-Rubinstein or Topkis
 
 Stanford Business/Finance:
 
 UG not many core courses
 
-213 Accounting
+Bus Acct 213 Accounting
 - Hanlon et al Financial Accounting (shrink wrapped, looks crappy)
 
-201 Finance
+Bus Fin 201 Finance
 - Berk et al, Corporate Finance (similary)
 - can try library for these!
 
