@@ -41,9 +41,12 @@ followed by
 
 ## Historical / Completed
 
+### 2020
+- MIT 15.501 Introduction to Financial and Managerial Accounting
+
 ### 2019
-- MIT 14.01
-- MIT 18.650
+- MIT 14.01 Principles of Microeconomics
+- MIT 18.600 Probability and Random Variables
 
 ### 2018
 

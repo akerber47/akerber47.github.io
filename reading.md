@@ -9,6 +9,23 @@ started this in July 2019, so lots of older content is lost. Maybe one day I'll
 sit down and think hard about what I've read in the past that's valuable.
 
 ### 2020 January
+- Lindsay C. Gibson, *Adult Children of Emotionally Immature Parents*
+- Terry Pratchett, *Interesting Times*
+- Paul McFedries, *Excel 2016: Formulas and Functions*
+- Michael Milton, *Head First Excel*
+- Holden Karau and Rachel Warren, *High Performance Spark*
+- Robin Berman, *Permission to Parent*
+- Karyl McBride, *Will I Ever Be Good Enough?*
+- Bryn Collins, *The Toxic Parents Survival Guide*
+- Duff McDonald, *The Golden Passport*
+- Susan Forward, *Toxic In-Laws*
+- Susan Forward, *Toxic Parents*
+- Daniel K. Hall, *How to Tie a Tie*
+- Jamie Pratt, *Financial Accounting in an Economic Context*
+- Jason DeSena Trennert, *My Side of the Street*
+- Michael Lewis, *Flash Boys*
+- John A. Tracy, *Accounting for Dummies*
+- Cathy O'Neil, *Weapons of Math Destruction*
 - Eric Tyson and Robert S. Griswold, *Real Estate Investing for Dummies*
 - Jasper Fforde, *Early Riser*
 - Esme Weijun Wang, *The Collected Schizophrenias*
@@ -117,6 +134,11 @@ These are books I didn't have the time to finish at the time, but would really
 like to come back to in the future.
 
 ### 2020 January
+- John Y. Campbell, *Financial Decisions and Markets*
+- Scott W. Ambler and Pramod J. Sadalage, *Refactoring Databases*
+- John H. Cochrane, *Asset Pricing*
+- Roger Lowenstein, *Buffett*
+- Kief Morris, *Infrastructure as Code*
 - Erich Gamma et al, *Design Patterns*
 
 ### 2019 December
@@ -171,6 +193,24 @@ I often browse through books and end up abandoning them. Here's a list.
 read these again.)
 
 ### 2020 January
+- Steve Oualline, *How Not To Program in C++*
+- Anna Post, *Emily Post's Wedding Parties*
+- P. K. Hari, *Excel for the CFO*
+- Lundy Bancroft, *Why Does He Do That?*
+- Michael Ellsberg, *The Education of Millionaires*
+- Paul Asquith and Lawrence A. Weiss, *Lessons in Corporate Finance*
+- Robert Meikyo Rosenbaum and Barry Magid ed., *What's Wrong with Mindfulness*
+- Yuwanda Black, *The Ultimate Freelancer's Guidebook*
+- Richard H. Thaler and Cass R. Sunstein, *Nudge*
+- Guy Spier, *The Education of a Value Investor*
+- John Perkins, *The New Confessions of an Economic Hit Man*
+- Sam Polk, *For the Love of Money*
+- Christian Rudder, *Dataclysm*
+- Turney Duff, *The Buy Side*
+- Emanuel Derman, *My Life as a Quant*
+- Todd A. Harrison, *The Other Side of Wall Street*
+- Theodore Grossman and John Leslie Livingstone ed., *The Portable MBA in
+  Finance and Accounting*
 - Peter Leeds, *Penny Stocks for Dummies*
 - Barbara Rockefeller, *Technical Analysis for Dummies*
 - Arvind Narayanan et al, *Bitcoin and Cryptocurrency Technologies*
@@ -249,3 +289,8 @@ read these again.)
 - *The Michelin Guide: London*
 - Steve Oualline, *Practical C++ Programming*
 - Douglas Hofstadter, *Metamagical Themas*
+
+# Media (2020)
+
+- *Colette*
+- *The Royal Tenenbaums*
