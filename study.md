@@ -29,15 +29,25 @@ To clarify the difference between this and the reading list:
   means homework exercises and exams, but can also be oral exams and presentations, spaced repetition, etc.
 
 ### CS
-- Skeina, Algorithm Design Manual
-  - Ch 1 complete (2019-08-03)
-- C++ programming practice
-- Rust programming practice
-
-followed by
-
-- MIT OCW 6.006 => 6.046
+- iOS projects
+- Rust projects
 - Cormen et al, Introduction to Algorithms
+  - MIT 6.006 => 6.046
+
+### Math
+- Rice, Mathematical Statistics and Data Analysis
+  - MIT 18.650
+
+### Finance
+- Investing
+  - Bodie, Kane, and Marcus
+  - Dale Rosenthal (UIUC) slides
+- Some kind of practical quant finance / advanced investing
+  - Programming projects (do it myself!)
+  - Narang
+  - Lopez de Prado
+  - Dale Rosenthal (UIUC) execution course slides
+  - Watch out for academic books about *modeling* (eg Campbell, Cochrane)
 
 ## Historical / Completed
 
@@ -47,6 +57,14 @@ followed by
 ### 2019
 - MIT 14.01 Principles of Microeconomics
 - MIT 18.600 Probability and Random Variables
+
+- C++ programming practice
+  - some Leetcode questions
+  - some C++ books including:
+    - Effective C++
+    - Effective STL
+    - Effective Modern C++
+    - A Tour of C++
 
 ### 2018
 
@@ -71,3 +89,21 @@ energy went into getting that done. But afterwards I did get through some things
 - Probability (MIT OCW 6.041)
 - Statistics (DeGroot--Schervish, Ch 6-8)
 - CS and Finance interview prep (Gayle, Crack)
+
+## Abandoned
+
+### 2020
+
+MIT 15.433 Investments
+- This course is too easy for the material. Lots of multiple choice and
+  simplistic questions. Not enough hard stuff. Not enough programming.
+
+### 2019
+
+MIT 14.02 Principles of Macroeconomics
+- This material is not valuable for my needs. Wrong path for success.
+
+Skeina, Algorithm Design Manual
+- Ch 1 complete (2019-08-03)
+- The exercises in this book are not exciting enough.
+- Better for me: Cormen, MIT, Knuth, Leetcode

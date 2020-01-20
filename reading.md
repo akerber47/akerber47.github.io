@@ -134,9 +134,7 @@ These are books I didn't have the time to finish at the time, but would really
 like to come back to in the future.
 
 ### 2020 January
-- John Y. Campbell, *Financial Decisions and Markets*
 - Scott W. Ambler and Pramod J. Sadalage, *Refactoring Databases*
-- John H. Cochrane, *Asset Pricing*
 - Roger Lowenstein, *Buffett*
 - Kief Morris, *Infrastructure as Code*
 - Erich Gamma et al, *Design Patterns*
@@ -193,6 +191,9 @@ I often browse through books and end up abandoning them. Here's a list.
 read these again.)
 
 ### 2020 January
+- John Y. Campbell, *Financial Decisions and Markets*
+- John H. Cochrane, *Asset Pricing*
+- Samuel Karlin and Howard M. Taylor, *A First Course in Stochastic Processes*
 - Steve Oualline, *How Not To Program in C++*
 - Anna Post, *Emily Post's Wedding Parties*
 - P. K. Hari, *Excel for the CFO*
@@ -292,5 +293,6 @@ read these again.)
 
 # Media (2020)
 
+- *Isle of Dogs*
 - *Colette*
 - *The Royal Tenenbaums*
