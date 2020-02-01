@@ -9,6 +9,14 @@ started this in July 2019, so lots of older content is lost. Maybe one day I'll
 sit down and think hard about what I've read in the past that's valuable.
 
 ### 2020 January
+- Epicurus trans. Eugene O'Connor, *The Essential Epicurus*
+- Marcus Aurelius trans. Jacob Needleman and John P. Piazza,
+  *The Essential Marcus Aurelius*
+- Miles Young, *Oglivy on Advertising in the Digital Age*
+- Terry Pratchett, *Hogfather*
+- Zvi Bodie et al, *Investments*
+- Andrew Essex, *The End of Advertising*
+- Mara Einstein, *Black Ops Advertising*
 - Lindsay C. Gibson, *Adult Children of Emotionally Immature Parents*
 - Terry Pratchett, *Interesting Times*
 - Paul McFedries, *Excel 2016: Formulas and Functions*
@@ -134,6 +142,13 @@ These are books I didn't have the time to finish at the time, but would really
 like to come back to in the future.
 
 ### 2020 January
+- Vandad Nahavandipoor, *iOS 11 Swift Programming Cookbook*
+- Christian Keur and Aaron Hillegass: *iOS Programming: The Big Nerd Ranch Guide*
+- Richard Warren, *Creating iOS Apps*
+- Matt Neuburg, *Programming iOS 11*
+- Tracey Pilone and Dan Pilone, *Head First iPhone & iPad Development*
+- Arnold Robbins, *sed and awk Pocket Reference*
+- Daniel J. Barrett, *Linux Pocket Guide*
 - Scott W. Ambler and Pramod J. Sadalage, *Refactoring Databases*
 - Roger Lowenstein, *Buffett*
 - Kief Morris, *Infrastructure as Code*
@@ -191,6 +206,7 @@ I often browse through books and end up abandoning them. Here's a list.
 read these again.)
 
 ### 2020 January
+- Nathan Marz and James Warren, *Big Data*
 - John Y. Campbell, *Financial Decisions and Markets*
 - John H. Cochrane, *Asset Pricing*
 - Samuel Karlin and Howard M. Taylor, *A First Course in Stochastic Processes*
@@ -293,6 +309,7 @@ read these again.)
 
 # Media (2020)
 
+- *Fantastic Mr. Fox*
 - *Isle of Dogs*
 - *Colette*
 - *The Royal Tenenbaums*
