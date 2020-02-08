@@ -8,6 +8,16 @@ I read when I can. Maybe one day I'll get this more organized. Sadly I only
 started this in July 2019, so lots of older content is lost. Maybe one day I'll
 sit down and think hard about what I've read in the past that's valuable.
 
+### 2020 February
+- Lonely Planet, *The Place To Be*
+- Shelley Peterman Schwarz, *Home Accessibility*
+- Emily Doskow and Marcia Stewart, *The Legal Answer Book for Families*
+- Ed Sherman and Susan Cameron, *Legal Essentials for California Couples*
+- Terry Pratchett, *Feet of Clay*
+- Confucius trans. Simon Leys, *The Annalects of Confucius*
+- Terry Pratchett, *Men at Arms*
+- Confucius trans. Thomas Cleary, *The Essential Confucius*
+
 ### 2020 January
 - Epicurus trans. Eugene O'Connor, *The Essential Epicurus*
 - Marcus Aurelius trans. Jacob Needleman and John P. Piazza,
@@ -141,6 +151,12 @@ sit down and think hard about what I've read in the past that's valuable.
 These are books I didn't have the time to finish at the time, but would really
 like to come back to in the future.
 
+### 2020 February
+-Joshua Foer et al, *Atlas Obscura*
+- Jon Gertner, *The Idea Factory*
+- Steven C. Hayes, *Get Out of Your Mind and Into Your Life*
+- Russ Harris, *The Happiness Trap*
+
 ### 2020 January
 - Vandad Nahavandipoor, *iOS 11 Swift Programming Cookbook*
 - Christian Keur and Aaron Hillegass: *iOS Programming: The Big Nerd Ranch Guide*
@@ -204,6 +220,12 @@ like to come back to in the future.
 I often browse through books and end up abandoning them. Here's a list.
 (Honestly, most of the point here is to stop me from forgetting and trying to
 read these again.)
+
+### 2020 February
+- Noelle Howey ed., *The Real Simple Guide to Real Life*
+- Kimi Eisele, *The Lightest Object in the Universe*
+- G. Willow Wilson, *The Bird King*
+- Joe LoCicero, *Cake Decorating for Dummies*
 
 ### 2020 January
 - Nathan Marz and James Warren, *Big Data*
