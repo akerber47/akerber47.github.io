@@ -222,6 +222,8 @@ I often browse through books and end up abandoning them. Here's a list.
 read these again.)
 
 ### 2020 February
+- Ole Thorstensen, *Making Things Rights*
+- Williams-Sonoma, *Pies and Tarts*
 - Noelle Howey ed., *The Real Simple Guide to Real Life*
 - Kimi Eisele, *The Lightest Object in the Universe*
 - G. Willow Wilson, *The Bird King*
