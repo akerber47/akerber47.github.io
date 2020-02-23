@@ -9,6 +9,25 @@ started this in July 2019, so lots of older content is lost. Maybe one day I'll
 sit down and think hard about what I've read in the past that's valuable.
 
 ### 2020 February
+- David Open, *The First National Bank of Dad*
+- John R. Talbott, *Sell Now!*
+- Carl Richards, *The Behavior Gap*
+- Jeff D. Opdyke, *Love & Money*
+- Mark B. Weiss, *Condos, Co-ops, and Townhomes*
+- Ken Roth, *Everything You Need to Know Before Buying a Co-op, Condo, or Townhouse*
+- Home Renovation Associates, *The Home Inspection Handbook*
+- Ilyce R. Glink, *100 Questions Every First-Time Home Buyer Should Ask*
+- Eric Tyson and Ray Brown, *Mortgages for Dummies*
+- Spencer Rascoff and Stan Humphires, *Zillow Talk*
+- Brendan J. Cunningham, *Tricks of the Trade*
+- Eric Tyson and Ray Brown, *Home Buying Kit for Dummies*
+- Ilona Bray et al, *Nolo's Essential Guide to Buying Your First Home*
+- Ralph Warner et al, *How to Buy a House in California*
+- Amy Loftsgorden and Cara O'Neill, *The Foreclosure Survival Guide*
+- Amy Loftsgorden and Cara O'Neill, *Solve Your Money Troubles*
+- Cara O'Neill, *The New Bankruptcy*
+- Eric Tyson, *Personal Finance for Dummies*
+- Eric Tyson and Ray Brown, *Selling Your House for Dummies*
 - Lonely Planet, *The Place To Be*
 - Shelley Peterman Schwarz, *Home Accessibility*
 - Emily Doskow and Marcia Stewart, *The Legal Answer Book for Families*
@@ -118,7 +137,6 @@ sit down and think hard about what I've read in the past that's valuable.
 - Terry Pratchett, *Pyramids*
 
 ### 2019 July
-
 - Terry Pratchett, *The Color of Magic*
 - Christopher Chaboute, *Alone*
 - Tim Wu, *The Curse of Bigness: Antitrust in the New Gilded Age*
@@ -222,7 +240,13 @@ I often browse through books and end up abandoning them. Here's a list.
 read these again.)
 
 ### 2020 February
-- Ole Thorstensen, *Making Things Rights*
+- Dan Ariel and Jeff Kreisler, *Dollars and Sense*
+- J. K. Lasser, *Your Income Tax 2019*
+- Jeff A. Schnepper, *How to Pay Zero Taxes 2018*
+- Robert Irwin, *Tips & Traps When Selling a Home*
+- Robert Irwin, *Tips & Traps When Buying a Home*
+- Melanie Cullen, *Get It Together*
+- Ole Thorstensen, *Making Things Right*
 - Williams-Sonoma, *Pies and Tarts*
 - Noelle Howey ed., *The Real Simple Guide to Real Life*
 - Kimi Eisele, *The Lightest Object in the Universe*
@@ -333,6 +357,8 @@ read these again.)
 
 # Media (2020)
 
+- *In the Loop*
+- *Moonrise Kingdom*
 - *Fantastic Mr. Fox*
 - *Isle of Dogs*
 - *Colette*
