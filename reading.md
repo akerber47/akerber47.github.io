@@ -9,6 +9,12 @@ started this in July 2019, so lots of older content is lost. Maybe one day I'll
 sit down and think hard about what I've read in the past that's valuable.
 
 ### 2020 February
+- Helaine Olen, *Pound Foolish*
+- Maxwell Gillingham-Ryan, *Apartment Therapy's Big Book of Small, Cool Spaces*
+- Maxwell Gillingham-Ryan, *Apartment Therapy Presents*
+- Corilen Atkins, *Small Spaces for Modern Living*
+- Peter I. Yanev and Andrew C. T. Thompson, *Peace of Mind in Earthquake
+  Country*
 - David Open, *The First National Bank of Dad*
 - John R. Talbott, *Sell Now!*
 - Carl Richards, *The Behavior Gap*
@@ -170,6 +176,7 @@ These are books I didn't have the time to finish at the time, but would really
 like to come back to in the future.
 
 ### 2020 February
+- Ashley Harell et al, *Cancun, Cozumel, and the Yucatan*
 -Joshua Foer et al, *Atlas Obscura*
 - Jon Gertner, *The Idea Factory*
 - Steven C. Hayes, *Get Out of Your Mind and Into Your Life*
@@ -240,6 +247,13 @@ I often browse through books and end up abandoning them. Here's a list.
 read these again.)
 
 ### 2020 February
+- Marc Cohen et al, *Google Compute Engine*
+- Jothy Rosenberg and Arthur Mateos, *The Cloud At Your Service*
+- Nayan B. Ruparelia, *Cloud Computing*
+- Liz Bauwens and Alexandra Campbell, *Thrifty Chic*
+- KariAnne Wood, *The DIY Style Finder*
+- Myquillyn Smith, *Cozy Minimalist Home*
+- John Robbins, *The New Good Life*
 - Dan Ariel and Jeff Kreisler, *Dollars and Sense*
 - J. K. Lasser, *Your Income Tax 2019*
 - Jeff A. Schnepper, *How to Pay Zero Taxes 2018*
@@ -357,6 +371,7 @@ read these again.)
 
 # Media (2020)
 
+- *Logan Lucky*
 - *In the Loop*
 - *Moonrise Kingdom*
 - *Fantastic Mr. Fox*
