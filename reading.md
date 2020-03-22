@@ -8,6 +8,20 @@ I read when I can. Maybe one day I'll get this more organized. Sadly I only
 started this in July 2019, so lots of older content is lost. Maybe one day I'll
 sit down and think hard about what I've read in the past that's valuable.
 
+### 2020 March
+- Jeff Johnson, *Designing with the Mind in Mind*
+- Andy Pratt & Jason Nunes, *Interactive Design*
+- Lenora Chu, *Little Soldiers*
+- Terry Pratchett, *Jingo*
+- Barbara Hambly, *Children of the Jedi*
+- Stuart Russell, *Human Compatible*
+- Stephen Fishman, *Home Business Tax Deductions*
+- Stephen Fishman, *Every Landlord's Tax Deduction Guide*
+- Anthony Gray, *Swift Pocket Reference*
+- Tracy Pilone & Dan Pilone, *Head First iPhone & iPad Development*
+- Matt Neuburg, *Programming iOS 11*
+- Jeff Connaughton, *The Payoff*
+
 ### 2020 February
 - Helaine Olen, *Pound Foolish*
 - Maxwell Gillingham-Ryan, *Apartment Therapy's Big Book of Small, Cool Spaces*
@@ -246,6 +260,16 @@ I often browse through books and end up abandoning them. Here's a list.
 (Honestly, most of the point here is to stop me from forgetting and trying to
 read these again.)
 
+### 2020 March
+- Steve Hoobr & Eric Berkman, *Designing Mobile Interfaces*
+- Chris Nodder, *Evil By Design*
+- Barbara Hambly, *Planet of Twilight*
+- Kevin J. Anderson, *Darksaber*
+- Ilona Bray & Alayna Schroeder, *The Essential Guide for First-Time Homeowners*
+- Matt Lee and Ted Lee, *Hotbox*
+- Oliver Bullough, *Moneyland*
+- Whitney Leigh Morris, *Small Space Style*
+
 ### 2020 February
 - Marc Cohen et al, *Google Compute Engine*
 - Jothy Rosenberg and Arthur Mateos, *The Cloud At Your Service*
@@ -371,6 +395,10 @@ read these again.)
 
 # Media (2020)
 
+- *Contagion*
+- *A Fish Called Wanda*
+- *Wartime Romance*
+- *Dr. Strangelove*
 - *Logan Lucky*
 - *In the Loop*
 - *Moonrise Kingdom*
