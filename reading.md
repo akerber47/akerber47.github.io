@@ -9,6 +9,15 @@ started this in July 2019, so lots of older content is lost. Maybe one day I'll
 sit down and think hard about what I've read in the past that's valuable.
 
 ### 2020 April
+- David N. Blank-Edelman ed., *Seeking SRE*
+- Thomas A. Limoncelli et al, *The Practice of Cloud System Administration*
+- Adrian Mouat, *Using Docker*
+- Stoyan Stefanov, *React: Up & Running*
+- Alexander Hiam, *Marketing for Dummies*
+- Brian Lawley & Pamela Schure, *Product Management for Dummies*
+- Liza Weiman Hanks, *The Busy Family's Guide to Estate Planning*
+- Barbara Shotwell & Nancy Randolph Greenway, *Pass It On*
+- Reader's Digest, *The Reader's Digest Do-It-Yourself Guide to Preventing Costly Home Repairs*
 - James Carey & Morris Carey Jr., *Home Maintenance for Dummies*
 - Popular Mechanics, *How To Fix Anything*
 - Terry Pratchett, *The Fifth Elephant*
@@ -198,6 +207,10 @@ sit down and think hard about what I've read in the past that's valuable.
 These are books I didn't have the time to finish at the time, but would really
 like to come back to in the future.
 
+### 2020 May
+- Black+Decker, *The Book of Home How-To*
+- The Family Handyman, *Make It Last*
+
 ### 2020 February
 - Ashley Harell et al, *Cancun, Cozumel, and the Yucatan*
 -Joshua Foer et al, *Atlas Obscura*
@@ -268,6 +281,10 @@ like to come back to in the future.
 I often browse through books and end up abandoning them. Here's a list.
 (Honestly, most of the point here is to stop me from forgetting and trying to
 read these again.)
+
+### 2020 April
+- Dave Taylor & Brandon Perry, *Wicked Cool Shell Scripts*
+- Aaron Goldman, *Everything I Know about Marketing I Learned from Google*
 
 ### 2020 March
 - Nicholson Baker, *Substitute*
