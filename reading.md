@@ -8,7 +8,16 @@ I read when I can. Maybe one day I'll get this more organized. Sadly I only
 started this in July 2019, so lots of older content is lost. Maybe one day I'll
 sit down and think hard about what I've read in the past that's valuable.
 
+### 2020 April
+- James Carey & Morris Carey Jr., *Home Maintenance for Dummies*
+- Popular Mechanics, *How To Fix Anything*
+- Terry Pratchett, *The Fifth Elephant*
+
 ### 2020 March
+- Terry Pratchett, *Carpe Jugulum*
+- Terry Pratchett, *The Last Continent*
+- Melvin I. Urofsky, *The Affirmative Action Puzzle*
+- Diane Ravitch, *Slaying Goliath*
 - Jeff Johnson, *Designing with the Mind in Mind*
 - Andy Pratt & Jason Nunes, *Interactive Design*
 - Lenora Chu, *Little Soldiers*
@@ -261,6 +270,12 @@ I often browse through books and end up abandoning them. Here's a list.
 read these again.)
 
 ### 2020 March
+- Nicholson Baker, *Substitute*
+- G. Poyla, *How To Solve It*
+- Jancee Dunn, *How Not To Hate Your Husband After Kids*
+- Amanda Ripley, *The Smartest Kids in the World*
+- Semmy Purewal, *Learning Web App Development*
+- Richard P. Olenick et al, *The Mechanical Universe*
 - Steve Hoobr & Eric Berkman, *Designing Mobile Interfaces*
 - Chris Nodder, *Evil By Design*
 - Barbara Hambly, *Planet of Twilight*
