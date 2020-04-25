@@ -9,6 +9,9 @@ started this in July 2019, so lots of older content is lost. Maybe one day I'll
 sit down and think hard about what I've read in the past that's valuable.
 
 ### 2020 April
+- Laura Lippman, *Lady in the Water*
+- Stephane Faroult, *The Art of SQL*
+- Louise Candlish, *Those People*
 - David N. Blank-Edelman ed., *Seeking SRE*
 - Thomas A. Limoncelli et al, *The Practice of Cloud System Administration*
 - Adrian Mouat, *Using Docker*
@@ -208,6 +211,8 @@ These are books I didn't have the time to finish at the time, but would really
 like to come back to in the future.
 
 ### 2020 May
+- Dilip Kondepudi & Ilya Prigogine, *Modern Thermodynamics*
+- Richard C. Tolman, *The Principles of Statistical Mechanics*
 - Black+Decker, *The Book of Home How-To*
 - The Family Handyman, *Make It Last*
 
@@ -283,6 +288,10 @@ I often browse through books and end up abandoning them. Here's a list.
 read these again.)
 
 ### 2020 April
+- Michael Eckert, *The Dawn of Fluid Dynamics*
+- M. M. Abbott & H. G. Van Ness, *Schaum's Outlines: Thermodynamics*
+- David R. Owen, *A First Course in the Mathematical Foundations of
+  Thermodynamics*
 - Dave Taylor & Brandon Perry, *Wicked Cool Shell Scripts*
 - Aaron Goldman, *Everything I Know about Marketing I Learned from Google*
 
@@ -427,6 +436,10 @@ read these again.)
 
 # Media (2020)
 
+
+- *One Child Nation*
+- *The Farewell*
+- *Invisible Life*
 - *Contagion*
 - *A Fish Called Wanda*
 - *Wartime Romance*
