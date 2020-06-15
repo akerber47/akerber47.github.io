@@ -8,6 +8,16 @@ I read when I can. Maybe one day I'll get this more organized. Sadly I only
 started this in July 2019, so lots of older content is lost. Maybe one day I'll
 sit down and think hard about what I've read in the past that's valuable.
 
+### 2020 June
+- 
+
+### 2020 May
+- Steve McConnell, *Software Estimation: Demystifying the Black Art*
+- Frederick P. Brooks, Jr., *The Mythical Man-Month*
+- R.C. Sproul, *If There's a God Why are There Atheists?*
+- William Wheeler, *State of War: MS-13 and El Salvador's World of Violence*
+- Naomi Booth, *Sealed*
+
 ### 2020 April
 - Laura Lippman, *Lady in the Water*
 - Stephane Faroult, *The Art of SQL*
@@ -210,6 +220,11 @@ sit down and think hard about what I've read in the past that's valuable.
 These are books I didn't have the time to finish at the time, but would really
 like to come back to in the future.
 
+### 2020 June
+- Dennis Andriesse, *Practical Binary Analysis*
+- Rick Parent, *Computer Animation: Algorithms & Techniques*
+- Donald H. Perkins, *Introduction to High Energy Physics*
+
 ### 2020 May
 - Dilip Kondepudi & Ilya Prigogine, *Modern Thermodynamics*
 - Richard C. Tolman, *The Principles of Statistical Mechanics*
@@ -286,6 +301,9 @@ like to come back to in the future.
 I often browse through books and end up abandoning them. Here's a list.
 (Honestly, most of the point here is to stop me from forgetting and trying to
 read these again.)
+
+### 2020 May
+- Nina Allan, *The Silver Wind*
 
 ### 2020 April
 - Michael Eckert, *The Dawn of Fluid Dynamics*
