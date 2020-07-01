@@ -9,7 +9,14 @@ started this in July 2019, so lots of older content is lost. Maybe one day I'll
 sit down and think hard about what I've read in the past that's valuable.
 
 ### 2020 June
-- 
+- Arnold Robbins, *sed & awk: Pocket Reference*
+- Paul McFedries, *Web Coding & Development All-In-One for Dummies*
+- Rob Crowther et al, *HTML5 in Action*
+- Kirupa Chinnathambi, *Creating Web Animations: Bringing Your UIs to Life*
+- Sarah Drasner, *SVG Animations: From Common UX Implementations to Complex
+  Responsive Animation*
+- Martin Theus & Simon Urbanek, *Interactive Graphics for Data Analysis:
+  Principles and Examples*
 
 ### 2020 May
 - Steve McConnell, *Software Estimation: Demystifying the Black Art*
@@ -221,6 +228,9 @@ These are books I didn't have the time to finish at the time, but would really
 like to come back to in the future.
 
 ### 2020 June
+- John Lions, *Lions' Commentary on UNIX 6th Edition: with Source Code*
+- Samuel Karlin and Howard M. Taylor, *A First Course in Stochastic Processes*
+- Martin Aigner and Gunter M. Ziegler, *Proofs from THE BOOK*
 - Dennis Andriesse, *Practical Binary Analysis*
 - Rick Parent, *Computer Animation: Algorithms & Techniques*
 - Donald H. Perkins, *Introduction to High Energy Physics*
@@ -301,6 +311,9 @@ like to come back to in the future.
 I often browse through books and end up abandoning them. Here's a list.
 (Honestly, most of the point here is to stop me from forgetting and trying to
 read these again.)
+
+### 2020 June
+- Scott Preston, *Learn HTML5 and JavaScript for iOS*
 
 ### 2020 May
 - Nina Allan, *The Silver Wind*
