@@ -8,11 +8,23 @@ I read when I can. Maybe one day I'll get this more organized. Sadly I only
 started this in July 2019, so lots of older content is lost. Maybe one day I'll
 sit down and think hard about what I've read in the past that's valuable.
 
+### 2020 October
+- Christopher Caldwell, *The Age of Entitlement*
+
+### 2020 September
+- Joel Kotkin, *The Coming of Neo-Feudalism*
+- Thomas Sowell, *The Vision of the Anointed*
+- Ezra Klein, *Why We're Polarized*
+- Ross Douthat, *The Decadent Society*
+- Thomas Frank, *People Without Power*
+- Thomas Frank, *Rendezvous With Oblivion*
+
 ### 2020 August
 - Ted Chiang, *Exhalation*
 - *The Bible (KJV), Book of Job*
 - *The Bible (KJV), Book of Jonah*
 - Isaac Asimov, *Robot Dreams*
+- Arnold Bennett, *How to Live on 24 Hours a Day*
 
 ### 2020 July
 - Hal Abelson & Gerald J. Sussman, *Structure and Interpretation of Computer
@@ -322,6 +334,12 @@ I often browse through books and end up abandoning them. Here's a list.
 (Honestly, most of the point here is to stop me from forgetting and trying to
 read these again.)
 
+### 2020 September
+- Ross Douthat, *Bad Religion*
+- Martin Gutti, *The Revolt of the Public and the Crisis of Authority in the
+  New Millenium*
+- Tyler Cowen, *Stubborn Attachments*
+
 ### 2020 August
 - Iain M. Banks, *Use of Weapons*
 
@@ -479,7 +497,6 @@ read these again.)
 - Douglas Hofstadter, *Metamagical Themas*
 
 # Media (2020)
-
 
 - *One Child Nation*
 - *The Farewell*
