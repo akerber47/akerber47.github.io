@@ -8,6 +8,18 @@ I read when I can. Maybe one day I'll get this more organized. Sadly I only
 started this in July 2019, so lots of older content is lost. Maybe one day I'll
 sit down and think hard about what I've read in the past that's valuable.
 
+### 2020 November
+- Brandon Sanderson, *Elantris*
+- David Bayles, *Art & Fear*
+- J. B. MacKinnon, *The Once and Future World*
+- Seymour M. Hersh, *The Price of Power*
+
+### 2020 October
+- Seymour M. Hersh, *The Killing of Osama bin Laden*
+- Charles Murray, *Coming Apart*
+- Brandon Sanderson, *Mistborn*
+- Christopher Caldwell, *Reflections on the Revolution in Europe*
+
 ### 2020 August
 - Ted Chiang, *Exhalation*
 - *The Bible (KJV), Book of Job*
@@ -321,6 +333,16 @@ like to come back to in the future.
 I often browse through books and end up abandoning them. Here's a list.
 (Honestly, most of the point here is to stop me from forgetting and trying to
 read these again.)
+
+### 2020 November
+
+- Greg Egan, *Permutation City*
+- Francis Spufford, *Red Plenty*
+- Russ Harris, *The Happiness Trap*
+
+### 2020 October
+- David H. Maister, *Managing the Professional Services Firm*
+- Frank Dikotter, *The Tragedy of Liberation*
 
 ### 2020 August
 - Iain M. Banks, *Use of Weapons*
