@@ -9,9 +9,12 @@ started this in July 2019, so lots of older content is lost. Maybe one day I'll
 sit down and think hard about what I've read in the past that's valuable.
 
 ### 2020 November
+- Michael Lewis, *The Fifth Risk*
 - Brandon Sanderson, *Elantris*
 - David Bayles, *Art & Fear*
 - J. B. MacKinnon, *The Once and Future World*
+- Max Barry, *Lexicon*
+- Alexander Cockburn, *A Colossal Wreck*
 - Seymour M. Hersh, *The Price of Power*
 
 ### 2020 October
@@ -336,6 +339,13 @@ read these again.)
 
 ### 2020 November
 
+- John Lions, *Lions' Commentary on UNIX 6th Edition: with Source Code*
+- Robert Love, *Linux Kernel Development*
+- Daniel P. Bovet & Marco Cesati, *Understanding the Linux Kernel*
+- Mahesh Rao, *Polite Society*
+- Joel Whitney, *Finks*
+- Adam Levin, *Bubblegum*
+- Tilman M. Davies, *The Book of R*
 - Greg Egan, *Permutation City*
 - Francis Spufford, *Red Plenty*
 - Russ Harris, *The Happiness Trap*
