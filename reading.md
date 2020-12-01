@@ -22,12 +22,22 @@ sit down and think hard about what I've read in the past that's valuable.
 - Charles Murray, *Coming Apart*
 - Brandon Sanderson, *Mistborn*
 - Christopher Caldwell, *Reflections on the Revolution in Europe*
+- Christopher Caldwell, *The Age of Entitlement*
+
+### 2020 September
+- Joel Kotkin, *The Coming of Neo-Feudalism*
+- Thomas Sowell, *The Vision of the Anointed*
+- Ezra Klein, *Why We're Polarized*
+- Ross Douthat, *The Decadent Society*
+- Thomas Frank, *People Without Power*
+- Thomas Frank, *Rendezvous With Oblivion*
 
 ### 2020 August
 - Ted Chiang, *Exhalation*
 - *The Bible (KJV), Book of Job*
 - *The Bible (KJV), Book of Jonah*
 - Isaac Asimov, *Robot Dreams*
+- Arnold Bennett, *How to Live on 24 Hours a Day*
 
 ### 2020 July
 - Hal Abelson & Gerald J. Sussman, *Structure and Interpretation of Computer
@@ -354,6 +364,12 @@ read these again.)
 - David H. Maister, *Managing the Professional Services Firm*
 - Frank Dikotter, *The Tragedy of Liberation*
 
+### 2020 September
+- Ross Douthat, *Bad Religion*
+- Martin Gutti, *The Revolt of the Public and the Crisis of Authority in the
+  New Millenium*
+- Tyler Cowen, *Stubborn Attachments*
+
 ### 2020 August
 - Iain M. Banks, *Use of Weapons*
 
@@ -511,7 +527,6 @@ read these again.)
 - Douglas Hofstadter, *Metamagical Themas*
 
 # Media (2020)
-
 
 - *One Child Nation*
 - *The Farewell*

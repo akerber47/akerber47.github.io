@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Alvin Kerber -- Archive
+title: Alvin Kerber -- Log
 ---
 
 {{ content }}
 
 {% for post in site.posts %}
-<h3>{{ post.date | date: '%Y-%m-%d' }} &mdash; {{ post.title }}</h3>
+<h2>{{ post.date | date: '%Y-%m-%d' }} &mdash; {{ post.title }}</h2>
 {{ post.content }}
 {% endfor %}
