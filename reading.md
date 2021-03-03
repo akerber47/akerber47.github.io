@@ -8,6 +8,21 @@ I read when I can. Maybe one day I'll get this more organized. Sadly I only
 started this in July 2019, so lots of older content is lost. Maybe one day I'll
 sit down and think hard about what I've read in the past that's valuable.
 
+### 2021 February
+- Junot Diaz, *Drown*
+- Nana Kwame Adjei-Brenyah, *Friday Black*
+
+### 2021 January
+- Dan Davies, *Lying for Money*
+- Eugene Lim, *Dear Cyborgs*
+- Susanna Clarke, *Jonathan Strange and Mr. Norrell*
+
+### 2020 December
+- Alexander Cockburn, *Whiteout*
+- Brandon Sanderson, *The Hero of Ages*
+- Brandon Sanderson, *The Well of Ascension*
+- Michael Lewis, *The Blind Side*
+
 ### 2020 November
 - Michael Lewis, *The Fifth Risk*
 - Brandon Sanderson, *Elantris*
@@ -346,6 +361,11 @@ like to come back to in the future.
 I often browse through books and end up abandoning them. Here's a list.
 (Honestly, most of the point here is to stop me from forgetting and trying to
 read these again.)
+
+### 2020 December
+- Nathan J. Robinson, *Superpredator*
+- Nathan J. Robinson, *Why You Should Be a Socialist*
+- Richard Ben Cramer, *What It Takes*
 
 ### 2020 November
 
