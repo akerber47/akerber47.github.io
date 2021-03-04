@@ -9,10 +9,24 @@ started this in July 2019, so lots of older content is lost. Maybe one day I'll
 sit down and think hard about what I've read in the past that's valuable.
 
 ### 2021 February
+- William Makepeace Thackeray, *Vanity Fair*
+- Dexter Palmer, *Mary Toft*
 - Junot Diaz, *Drown*
 - Nana Kwame Adjei-Brenyah, *Friday Black*
+- Alexis Dubief, *Precious Little Sleep*
+- Tina Payne Bryson, *The Bottom Line for Baby*
+- Susan Goodwyn & Linda Acredolo, *Baby Hearts*
+- Susan Goodwyn & Linda Acredolo, *Baby Minds*
+- Kathleen Huggins, *The Nursing Mother's Companion*
+- Laura A. Jana & Jennifer Shu, *Heading Home With Your Newborn*
 
 ### 2021 January
+- Dexter Palmer, *Version Control*
+- Max Barry, *Providence*
+- Timothy Zahn, *Thrawn*
+- Timothy Zahn, *Thrawn: Alliances*
+- Timothy Zahn, *Thrawn: Treason*
+- Max Barry, *Company*
 - Dan Davies, *Lying for Money*
 - Eugene Lim, *Dear Cyborgs*
 - Susanna Clarke, *Jonathan Strange and Mr. Norrell*
@@ -21,6 +35,7 @@ sit down and think hard about what I've read in the past that's valuable.
 - Alexander Cockburn, *Whiteout*
 - Brandon Sanderson, *The Hero of Ages*
 - Brandon Sanderson, *The Well of Ascension*
+- Daniel Immerwahr, *How to Hide an Empire*
 - Michael Lewis, *The Blind Side*
 
 ### 2020 November
@@ -277,6 +292,12 @@ sit down and think hard about what I've read in the past that's valuable.
 These are books I didn't have the time to finish at the time, but would really
 like to come back to in the future.
 
+### 2021 February
+- Gordon S. Wood, *Empire of Liberty*
+- Richard White, *The Republic For Which It Stands*
+- Daniel Walker Howe, *What Hath God Wrought*
+- Simone Davies & Hiyoko Imai, *The Montessori Toddler*
+
 ### 2020 June
 - John Lions, *Lions' Commentary on UNIX 6th Edition: with Source Code*
 - Samuel Karlin and Howard M. Taylor, *A First Course in Stochastic Processes*
@@ -362,6 +383,15 @@ I often browse through books and end up abandoning them. Here's a list.
 (Honestly, most of the point here is to stop me from forgetting and trying to
 read these again.)
 
+### 2021 February
+- Robert Bucknam & Gary Ezzo, *On Becoming Babywise*
+- William Sears et al, *The Baby Book*
+- Nihara K. Choudhri, *Preparing for Baby*
+- Robert Hamilton, *7 Secrets of the Newborn*
+- Terry Eagleton, *Marx*
+- Sinclair Lewis, *Babbitt*
+- Sherwood Anderson, *Winesburg, Ohio*
+
 ### 2020 December
 - Nathan J. Robinson, *Superpredator*
 - Nathan J. Robinson, *Why You Should Be a Socialist*
@@ -381,6 +411,8 @@ read these again.)
 - Russ Harris, *The Happiness Trap*
 
 ### 2020 October
+- Peter C. Bruce, *Practical Statistics for Data Scientists*
+- Nina Zumel, *Practical Data Science with R*
 - David H. Maister, *Managing the Professional Services Firm*
 - Frank Dikotter, *The Tragedy of Liberation*
 
