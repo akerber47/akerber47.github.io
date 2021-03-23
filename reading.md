@@ -8,6 +8,13 @@ I read when I can. Maybe one day I'll get this more organized. Sadly I only
 started this in July 2019, so lots of older content is lost. Maybe one day I'll
 sit down and think hard about what I've read in the past that's valuable.
 
+### 2021 March
+- Paul Wilmott & David Orrell, *The Money Formula*
+- Thomas H. Cormen et al, *Introduction to Algorithms*
+- Alex Reinhart, *Statistics Done Wrong*
+- Rishi K. Narang, *Inside the Black Box*
+- Iain M. Banks, *Use of Weapons*
+
 ### 2021 February
 - William Makepeace Thackeray, *Vanity Fair*
 - Dexter Palmer, *Mary Toft*
@@ -21,6 +28,8 @@ sit down and think hard about what I've read in the past that's valuable.
 - Laura A. Jana & Jennifer Shu, *Heading Home With Your Newborn*
 
 ### 2021 January
+- Junot Diaz, *The Brief Wondrous Life of Oscar Wao*
+- Myra J. Wick, *The Mayo Clinic Guide to a Healthy Pregnancy*
 - Dexter Palmer, *Version Control*
 - Max Barry, *Providence*
 - Timothy Zahn, *Thrawn*
@@ -382,6 +391,14 @@ like to come back to in the future.
 I often browse through books and end up abandoning them. Here's a list.
 (Honestly, most of the point here is to stop me from forgetting and trying to
 read these again.)
+
+### 2021 March
+- Andriy Burkov, *Machine Learning Engineering*
+- Andrew W. Appel, *Modern Compiler Implementation in C*
+- Jens Gustedt, *Modern C*
+- Marc Gregoire, *Professional C++*
+- Scott Patterson, *The Quants*
+- Robert C. Seacord, *Effective C*
 
 ### 2021 February
 - Robert Bucknam & Gary Ezzo, *On Becoming Babywise*
