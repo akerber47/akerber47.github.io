@@ -9,6 +9,8 @@ started this in July 2019, so lots of older content is lost. Maybe one day I'll
 sit down and think hard about what I've read in the past that's valuable.
 
 ### 2021 March
+- J. K. Lasser, *1001 Deductions & Tax Breaks 2021*
+- J. K. Lasser, *Your Income Tax 2021*
 - Paul Wilmott & David Orrell, *The Money Formula*
 - Thomas H. Cormen et al, *Introduction to Algorithms*
 - Alex Reinhart, *Statistics Done Wrong*
@@ -393,6 +395,9 @@ I often browse through books and end up abandoning them. Here's a list.
 read these again.)
 
 ### 2021 March
+- Anthony Williams, *C++ Multithreading in Action*
+- Robert B. Banks, *Towering Icebergs, Falling Dominoes, and Other Adventures
+  in Applied Mathematics*
 - Andriy Burkov, *Machine Learning Engineering*
 - Andrew W. Appel, *Modern Compiler Implementation in C*
 - Jens Gustedt, *Modern C*
