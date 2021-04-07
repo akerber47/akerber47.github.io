@@ -8,6 +8,9 @@ I read when I can. Maybe one day I'll get this more organized. Sadly I only
 started this in July 2019, so lots of older content is lost. Maybe one day I'll
 sit down and think hard about what I've read in the past that's valuable.
 
+### 2021 April
+- J. D. Long & Paul Teetor, *R Cookbook*
+
 ### 2021 March
 - J. K. Lasser, *1001 Deductions & Tax Breaks 2021*
 - J. K. Lasser, *Your Income Tax 2021*
