@@ -14,6 +14,6 @@ You may be interested in my [resume](Alvin Kerber resume.pdf) *(last updated
 
 ### Stuff
 
-- [Log](log.html) ([list of posts](archive.html))
-- [Goals and Study Plans](study.html)
-- [Reading List](reading.html)
+- [Log](archive.html) ([long page with all posts](log.html))
+- [Study](study.html)
+- [Reading](reading.html)
