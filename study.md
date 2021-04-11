@@ -1,24 +1,8 @@
 ---
-title: Alvin Kerber -- Goals and Study Plans
+title: Alvin Kerber -- Study Tracking
 ---
 
-# Goals
-
-This is to track ongoing personal goals. At some point I should add some
-historical goals here too.
-
-# Practices (see [Results vs Practices](2019/08/03/results-vs-practices.html)
-
-- [No internet](2019/07/22/no-internet.html) -- **4 weeks** (since 2019-07-20).
-  *(Previous record: about 70 days).*
-- Writing 3x / week, at least 5 minutes each time -- **just started** (since
-  2019-08-17).
-- Home study 2x / week, at least 1 hour each time -- **4 weeks** (since
-  2019-07-20).
-- Math/CS eclectic reading 3x/week, at least 15 minutes each time -- **2
-  weeks** (since 2019-08-03).
-
-# Study Plans
+# Study Tracking
 
 I really like making plans for things to study. Sometimes I even finish!
 
@@ -28,34 +12,75 @@ To clarify the difference between this and the reading list:
 - *studying* is me actively putting effort into long term recall. This usually
   means homework exercises and exams, but can also be oral exams and presentations, spaced repetition, etc.
 
+# Planned
+
 ### CS
-- iOS projects
-- Rust projects
-- Cormen et al, Introduction to Algorithms
-  - MIT 6.006 => 6.046
+- C compiler
+  - Dragon book
+  - Engineering a Compiler book
+- Computer Networks
+  - Brown CS 168
+- Monte Carlo simulations
+- Physics simulations
 
 ### Math
-- Rice, Mathematical Statistics and Data Analysis
+- "Honors" mathematical statistics
   - MIT 18.650
+  - CMU 36-705
+  - Stanford Stats 200
+- Applied statistics
+  - CMU 36-707
+  - Stanford Stats 203
+- Stochastic processes / "honors" discrete math
+  - Mitzenmacher & Upfal
+- Statistical / "honors" ML
+- Information theory
+- Differential equations
+- Fourier analysis
 
 ### Finance
 - Investing
   - Bodie, Kane, and Marcus
-  - Dale Rosenthal (UIUC) slides
 - Some kind of practical quant finance / advanced investing
   - Programming projects (do it myself!)
-  - Narang
   - Lopez de Prado
-  - Dale Rosenthal (UIUC) execution course slides
-  - Watch out for academic books about *modeling* (eg Campbell, Cochrane)
+  - Trading systems books
 
-## Historical / Completed
+# Completed
+
+### 2021
+- MIT 6.046 Analysis of Algorithms
+
+Major study books:
+- CLRS, Introduction to Algorithms
+  - All starred and end of chapter problems completed
+
+Supplemental books:
 
 ### 2020
+- MIT 6.006 Introduction to Algorithms
+- MIT 6.001 Structure and Interpretation of Computer Programs
 - MIT 15.501 Introduction to Financial and Managerial Accounting
 
+- C++ programming:
+  - MIX simulator and assembler project
+
+Major study books:
+- Abelson & Sussman, SICP
+  - All written exercises complete
+  - Coding exercises through partway Ch 3 complete
+- CLRS, Introduction to Algorithms
+  - All starred and end of chapter problems completed through Ch 17
+
+Supplemental books:
+- Skiena, The Algorithm Design Manual
+- Knuth, The Art of Computer Programming: Volume 1
+- Pratt, Financial Accounting in an Economic Context
+
 ### 2019
-- MIT 14.01 Principles of Microeconomics
+- Microeconomics (combined):
+  - MIT 14.01 Principles of Microeconomics
+  - MIT 14.04 Intermediate Microeconomic Theory
 - MIT 18.600 Probability and Random Variables
 
 - C++ programming practice
@@ -65,6 +90,10 @@ To clarify the difference between this and the reading list:
     - Effective STL
     - Effective Modern C++
     - A Tour of C++
+
+Supplemental books:
+- Varian, Intermediate Microeconomics
+- Ross, A First Course in Probability
 
 ### 2018
 
@@ -107,3 +136,20 @@ Skeina, Algorithm Design Manual
 - Ch 1 complete (2019-08-03)
 - The exercises in this book are not exciting enough.
 - Better for me: Cormen, MIT, Knuth, Leetcode
+
+## Goals (2019)
+
+This is to track ongoing personal goals. At some point I should add some
+historical goals here too.
+
+## Practices (see [Results vs Practices](2019/08/03/results-vs-practices.html)
+
+- [No internet](2019/07/22/no-internet.html) -- **4 weeks** (since 2019-07-20).
+  *(Previous record: about 70 days).*
+- Writing 3x / week, at least 5 minutes each time -- **just started** (since
+  2019-08-17).
+- Home study 2x / week, at least 1 hour each time -- **4 weeks** (since
+  2019-07-20).
+- Math/CS eclectic reading 3x/week, at least 15 minutes each time -- **2
+  weeks** (since 2019-08-03).
+
