@@ -91,18 +91,28 @@ Supplemental books:
     - Effective Modern C++
     - A Tour of C++
 
+- Work lecture series
+  - Basic machine learning
+  - Some topics in machine learning
+  - Basic theoretical statistics
+
 Supplemental books:
 - Varian, Intermediate Microeconomics
 - Ross, A First Course in Probability
+- Murphy, Machine Learning: a Probabilistic Perspective
+- Rice, Mathematical Statistics and Data Analysis
 
 ### 2018
 
-I bought a bunch of books but didn't get through most of them.
+I bought a bunch of books but didn't get through most of them. Nothing
+organized completed this year.
 
-Skimmed:
-- AI (Russell--Norvig)
-- ML (Murphy, Hastie et al)
-- Statistics (Rice, Ch 9-12)
+Supplemental books:
+- Russell & Norvig, Artificial Intelligence: A Modern Approach
+- Murphy, Machine Learning: a Probabilistic Perspective
+- Hastie et al, The Elements of Statistical Learning
+- Hastie et al, Introduction to Statistical Learning
+- Rice, Mathematical Statistics and Data Analysis
 
 And a brief, aborted stab at Knuth's Art of Computer Programming (hah!).
 
@@ -113,10 +123,12 @@ start fixing things...*
 ### 2017
 
 Mid-2017 is when I finished my PhD in pure math. Before then all my studying
-energy went into getting that done. But afterwards I did get through some things.
+energy went into getting that done. But afterwards I did get through some things
+while preparing to find a job.
 
-- Probability (MIT OCW 6.041)
-- Statistics (DeGroot--Schervish, Ch 6-8)
+- Probability (MIT 6.041 Applied Probability)
+- Statistics (DeGroot & Schervish, Ch 6-8)
+- ML (Hastie et al, Ch 1-3)
 - CS and Finance interview prep (Gayle, Crack)
 
 ## Abandoned
