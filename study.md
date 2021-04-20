@@ -93,13 +93,14 @@ Supplemental books:
 
 - Work lecture series
   - Basic machine learning
-  - Some topics in machine learning
+  - Some topics in deep learning
   - Basic theoretical statistics
 
 Supplemental books:
 - Varian, Intermediate Microeconomics
 - Ross, A First Course in Probability
 - Murphy, Machine Learning: a Probabilistic Perspective
+- Goodfellow et al, Deep Learning
 - Rice, Mathematical Statistics and Data Analysis
 
 ### 2018
