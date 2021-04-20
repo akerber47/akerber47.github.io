@@ -9,6 +9,8 @@ started this in July 2019, so lots of older content is lost. Maybe one day I'll
 sit down and think hard about what I've read in the past that's valuable.
 
 ### 2021 April
+- Nicholas Carr, *The Glass Cage*
+- Cullen Roche, *Pragmatic Capitalism*
 - J. D. Long & Paul Teetor, *R Cookbook*
 
 ### 2021 March
@@ -396,6 +398,16 @@ like to come back to in the future.
 I often browse through books and end up abandoning them. Here's a list.
 (Honestly, most of the point here is to stop me from forgetting and trying to
 read these again.)
+
+### 2021 April
+- Nicholas Carr, *The Shallows*
+- Leonard Susskind & George Hrabovsky, *The Theoretical Minimum*
+- Leonard Susskind & Art Friedman, *Special Relativity and Classical Field
+  Theory: The Theoretical Minimum*
+- Leonard Susskind & Art Friedman, *Quantum Mechanics: The Theoretical Minimum*
+- Chad Orzel, *How to Teach Relativity to Your Dog*
+- Philip Joyce, *Numerical C*
+- Bernard W. Lingdren, *Statistical Theory*
 
 ### 2021 March
 - Anthony Williams, *C++ Multithreading in Action*
