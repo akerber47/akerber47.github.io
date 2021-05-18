@@ -8,7 +8,14 @@ I read when I can. Maybe one day I'll get this more organized. Sadly I only
 started this in July 2019, so lots of older content is lost. Maybe one day I'll
 sit down and think hard about what I've read in the past that's valuable.
 
+### 2021 May
+- Paul J. Nahin, *Digital Dice*
+- Robert Galbraith, *The Cuckoo's Calling*
+- Robert Galbraith, *The Silkworm*
+- Anna Wiener, *Uncanny Valley: A Memoir*
+
 ### 2021 April
+- Gabriel Wyner, *Fluent Forever*
 - Nicholas Carr, *The Glass Cage*
 - Cullen Roche, *Pragmatic Capitalism*
 - J. D. Long & Paul Teetor, *R Cookbook*
@@ -308,6 +315,9 @@ sit down and think hard about what I've read in the past that's valuable.
 These are books I didn't have the time to finish at the time, but would really
 like to come back to in the future.
 
+### 2021 May
+- Max Pumperla & Kevin Ferguson, *Deep Learning and the Game of Go*
+
 ### 2021 February
 - Gordon S. Wood, *Empire of Liberty*
 - Richard White, *The Republic For Which It Stands*
@@ -398,6 +408,11 @@ like to come back to in the future.
 I often browse through books and end up abandoning them. Here's a list.
 (Honestly, most of the point here is to stop me from forgetting and trying to
 read these again.)
+
+### 2021 May
+- Thomas Pynchon, *Inherent Vice*
+- Thomas Pynchon, *Bleeding Edge*
+- G. Hardy, J. E. Littlewood, & G. Polya, *Inequalities*
 
 ### 2021 April
 - Nicholas Carr, *The Shallows*
