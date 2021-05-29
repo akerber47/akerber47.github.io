@@ -15,6 +15,8 @@ sit down and think hard about what I've read in the past that's valuable.
 - Anna Wiener, *Uncanny Valley: A Memoir*
 
 ### 2021 April
+- David A. Freedman, *Statistical Models: Theory and Practice*
+- Julian J. Faraway, *Linear Models with R*
 - Gabriel Wyner, *Fluent Forever*
 - Nicholas Carr, *The Glass Cage*
 - Cullen Roche, *Pragmatic Capitalism*
@@ -316,6 +318,10 @@ These are books I didn't have the time to finish at the time, but would really
 like to come back to in the future.
 
 ### 2021 May
+- Tilman M. Davies, *The Book of R*
+- Elias M. Stein & Rami Shakarchi, *Fourier Analysis: An Introduction*
+- Andrew Gelman & Jennifer Hill, *Data Analysis Using Regression and
+  Multilevel/Hierarchical Models*
 - Max Pumperla & Kevin Ferguson, *Deep Learning and the Game of Go*
 
 ### 2021 February
@@ -410,6 +416,9 @@ I often browse through books and end up abandoning them. Here's a list.
 read these again.)
 
 ### 2021 May
+- Garrett Birkhoff & Gian-Carlo Rota, *Ordinary Differential Equations*
+- Kendall E. Atkinson, *An Introduction to Numerical Analysis*
+- Melvin J. Maron, *Numerical Analysis: A Practical Approach*
 - Thomas Pynchon, *Inherent Vice*
 - Thomas Pynchon, *Bleeding Edge*
 - G. Hardy, J. E. Littlewood, & G. Polya, *Inequalities*
