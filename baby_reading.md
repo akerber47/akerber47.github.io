@@ -1,6 +1,16 @@
 -- in progress, need to add title etc --
 -- Also need to add purchased books (not library)
 
+### 2020 May
+- Robert McCloskey, *Blueberries for Sal*
+- Robert McCloskey, *Make Way For Ducklings*
+- Leo Leonni, *Frederick*
+- Leo Leonni, *Swimmy*
+- Dr. Seuss, *The Lorax*
+- Maurice Sendak, *Where the Wild Things Are*
+- Marie Ponsot trans., *The Golden Book of Fairy Tales*:
+  - "Puss In Boots"
+
 ### 2020 April
 - Marie Ponsot trans., *The Golden Book of Fairy Tales*:
   - "The Sleeping Beauty"
