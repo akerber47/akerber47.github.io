@@ -317,6 +317,11 @@ sit down and think hard about what I've read in the past that's valuable.
 These are books I didn't have the time to finish at the time, but would really
 like to come back to in the future.
 
+### 2021 June
+- *The Art of R Programming*
+- Don DeLillo, *Underworld*
+- Ian M. Richards, *Theory of Distributions*
+
 ### 2021 May
 - Tilman M. Davies, *The Book of R*
 - Elias M. Stein & Rami Shakarchi, *Fourier Analysis: An Introduction*
