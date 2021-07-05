@@ -317,6 +317,12 @@ sit down and think hard about what I've read in the past that's valuable.
 These are books I didn't have the time to finish at the time, but would really
 like to come back to in the future.
 
+### 2021 July
+- Amit Rathore & Francis Avila, *Clojure In Action*
+- Yaron Minsky et al, *Real World OCaml*
+- Carl Albing & JP Vossen, *bash Cookbook*
+- Dave Taylor & Brandon Perry, *Wicked Cool Shell Scripts*
+
 ### 2021 June
 - *The Art of R Programming*
 - Don DeLillo, *Underworld*

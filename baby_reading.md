@@ -1,7 +1,25 @@
 -- in progress, need to add title etc --
 -- Also need to add purchased books (not library)
 
-### 2020 May
+### 2021 
+
+### 2021 June
+
+- Graeme Base, *The Last King of Angkor Wat*
+- Emily Beeny & Stephanie Graegin, *Hector the Collector*
+- Andrea Beaty & Bill Mayer, *Hide and Sheep*
+- Hans Christian Andersen & Yana Sedova, *The Snow Queen*
+- Alex Beard, *The Lying King*
+- Marion Dane Bauer & Ekua Holmes, *The Stuff of Stars*
+- Dan Bar-el & Tim Bowers, *Not Your Typical Dragon*
+- Andrea Zuill, *Dance is for Everyone*
+- Jef Aerts & Sanne te Loo, *Cherry Blossom and Paper Planes*
+- Jeanne Willis & Jarvis, *I'm In Charge!*
+- Dr. Seuss, *Oh, the Thinks You Can Think*
+- Dr. Seuss, *Mr. Brown Can Moo! Can You?*
+- Dr. Seuss, *I Am Not Going to Get up Today!*
+
+### 2021 May
 - Robert McCloskey, *Blueberries for Sal*
 - Robert McCloskey, *Make Way For Ducklings*
 - Leo Leonni, *Frederick*
@@ -10,8 +28,9 @@
 - Maurice Sendak, *Where the Wild Things Are*
 - Marie Ponsot trans., *The Golden Book of Fairy Tales*:
   - "Puss In Boots"
+  - (more to write down)
 
-### 2020 April
+### 2021 April
 - Marie Ponsot trans., *The Golden Book of Fairy Tales*:
   - "The Sleeping Beauty"
   - "Little Red Riding Good"
@@ -21,8 +40,9 @@
 - oral (improv.):
   - "Jack and the Beanstalk"
   - "Snow White"
+- (fill in board books 2nd set)
 
-### 2020 March
+### 2021 March
 - Emily Winfield Martin, *The Wonderful Things You Will Be*
 - Hoda Kotb, *I've Loved You Since Forever*
 - Anna Kang & Christopher Weyant, *That's (Not) Mine*
@@ -36,7 +56,7 @@
 - Marc Simoni, *The Stray Dog*
 - David Wiesner, *Tuesday*
 
-### 2020 February
+### 2021 February
 - Lane Smith, *Grandpa Green*
 - Eric Litwin & James Dean, *Pete the Cat*
 - Anna Kang & Christopher Weyant, *You Are (Not) Small*
