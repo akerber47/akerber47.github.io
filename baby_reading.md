@@ -23,6 +23,8 @@
 - Dr. Seuss, *I Am Not Going to Get up Today!*
 
 ### 2021 May
+- Barbara & Ed Emberley, *Drummer Hoff*
+- Doreen Cronin & Betsy Lewin, *Click, Clack, Moo: Cows That Type*
 - Paul O. Zelinsky, *Rapunzel*
 - Uri Shulevitz, *Snow*
 - Simms Taback, *There Was An Old Lady Who Smallowed A Fly*

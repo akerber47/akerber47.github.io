@@ -327,6 +327,7 @@ These are books I didn't have the time to finish at the time, but would really
 like to come back to in the future.
 
 ### 2021 July
+- Gregory Zuckerman, *The Man Who Solved the Market*
 - Richard P. Feynman et al, *The Feynman Lectures on Physics*
 - Athanasios Papoulis, *Probability, Random Variables, and Stochastic
   Processes*
