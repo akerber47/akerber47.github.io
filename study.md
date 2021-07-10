@@ -49,13 +49,23 @@ To clarify the difference between this and the reading list:
 # Completed
 
 ### 2021
+- MIT 18.034 Honors Differential Equations
+- CMU 36-705 Intermediate Statistics & MIT 18.650 Statistics for Applications
 - MIT 6.046 Analysis of Algorithms
 
 Major study books:
+- Robinson, An Introduction to Ordinary Differential Equations
+  - All problems completed through Ch 12
+  - A few quick problems in subsequent chapters
+- Wasserman, All of Statistics
+  - All problems completed through Ch 12
 - CLRS, Introduction to Algorithms
   - All starred and end of chapter problems completed
 
 Supplemental books:
+- Birkoff & Rota, Ordinary Differential Equations
+- Richard Bronson, Schaum's Outlines: Differential Equations
+- Rice, Mathematical Statistics and Data Analysis
 
 ### 2020
 - MIT 6.006 Introduction to Algorithms
