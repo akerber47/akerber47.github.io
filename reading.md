@@ -8,6 +8,15 @@ I read when I can. Maybe one day I'll get this more organized. Sadly I only
 started this in July 2019, so lots of older content is lost. Maybe one day I'll
 sit down and think hard about what I've read in the past that's valuable.
 
+### 2021 July
+- Mychal Denzel Smith, *Stakes Is High*
+- James C. Robinson, *An Introduction to Ordinary Differential Equations*
+- Richard Bronson, *Schaum's Outlines: Differential Equations*
+- Robert Galbraith, *Career of Evil*
+
+### 2021 June
+- John A. Rice, *Mathematical Statistics and Data Analysis*
+
 ### 2021 May
 - Paul J. Nahin, *Digital Dice*
 - Robert Galbraith, *The Cuckoo's Calling*
@@ -318,6 +327,13 @@ These are books I didn't have the time to finish at the time, but would really
 like to come back to in the future.
 
 ### 2021 July
+- Richard P. Feynman et al, *The Feynman Lectures on Physics*
+- Athanasios Papoulis, *Probability, Random Variables, and Stochastic
+  Processes*
+- Michael Acevedo, *Modern Poker Theory*
+- John R. Berryhill, *C++ Scientific Programming*
+- Richard C. Tolman, *The Principles of Statistical Mechanics*
+- Georgi P. Tolstov, *Fourier Series*
 - Amit Rathore & Francis Avila, *Clojure In Action*
 - Yaron Minsky et al, *Real World OCaml*
 - Carl Albing & JP Vossen, *bash Cookbook*
@@ -425,6 +441,12 @@ like to come back to in the future.
 I often browse through books and end up abandoning them. Here's a list.
 (Honestly, most of the point here is to stop me from forgetting and trying to
 read these again.)
+
+### 2021 July
+- Samuel Karlin & Howard M. Taylor, *A First Course in Stochastic Processes*
+- Murray M. Spiegel, *Schaum's Outlines: Fourier Analysis*
+- Harry Hochstadt, *Differential Equations: A Modern Approach*
+- Stephen W. Goode & Scott A. Annin, *Differential Equations & Linear Algebra*
 
 ### 2021 May
 - Garrett Birkhoff & Gian-Carlo Rota, *Ordinary Differential Equations*

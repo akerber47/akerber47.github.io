@@ -1,7 +1,10 @@
 -- in progress, need to add title etc --
--- Also need to add purchased books (not library)
+-- Also need to add many purchased books (not library)
 
-### 2021 
+### 2021 July
+- Rotraut Susanne Berner, *All Around Bustletown: Fall*
+- Rotraut Susanne Berner, *All Around Bustletown: Spring*
+- Rotraut Susanne Berner, *All Around Bustletown: Winter*
 
 ### 2021 June
 
@@ -20,6 +23,14 @@
 - Dr. Seuss, *I Am Not Going to Get up Today!*
 
 ### 2021 May
+- Paul O. Zelinsky, *Rapunzel*
+- Uri Shulevitz, *Snow*
+- Simms Taback, *There Was An Old Lady Who Smallowed A Fly*
+- Jacqueline Briggs Martin & Mary Azarian, *Snowflake Bentley*
+- Dav Pilkey, *The Paperboy*
+- Norton Juster & Chris Raschka, *The Hello, Goodbye Window*
+- Ludwig Bemelmans, *Madeline*
+- William Steig, *Sylvester and the Magic Pebble*
 - Robert McCloskey, *Blueberries for Sal*
 - Robert McCloskey, *Make Way For Ducklings*
 - Leo Leonni, *Frederick*
