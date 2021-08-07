@@ -8,7 +8,17 @@ I read when I can. Maybe one day I'll get this more organized. Sadly I only
 started this in July 2019, so lots of older content is lost. Maybe one day I'll
 sit down and think hard about what I've read in the past that's valuable.
 
+### 2021 August
+- Bernard B. Kamoroff, CPA, *Small Time Operator*
+- Kalman A. Chany, *Paying for College*
+- Attorney Fred S. Steingold, *The Employer's Legal Handbook*
+- Tax Attorney Frederick W. Daily, *Tax Savvy for Small Businesses*
+- Gary Chapman & Arlene Pellicane, *Screen Kids*
+
 ### 2021 July
+- Roz Chast, *Theories of Everything*
+- Alec MacGillis, *Fulfillment*
+- Robert Galbraith, *Lethal White*
 - Mychal Denzel Smith, *Stakes Is High*
 - James C. Robinson, *An Introduction to Ordinary Differential Equations*
 - Richard Bronson, *Schaum's Outlines: Differential Equations*
@@ -326,6 +336,18 @@ sit down and think hard about what I've read in the past that's valuable.
 These are books I didn't have the time to finish at the time, but would really
 like to come back to in the future.
 
+### 2021 August
+- Gabriel Wyner, *Fluent Forever*
+- Martin Aigner and Gunter M. Ziegler, *Proofs from THE BOOK*
+- Benoit B. Mandlebrot, *The Fractalist*
+- Amy Wallace, *The Prodigy*
+- Melanie Cullen, *Get It Together*
+- Liza Weiman Hanks, *The Busy Family's Guide to Estate Planning*
+- Sally Goldberg, PhD, *Fun Baby Learning Games*
+- Monica Beyer, *Teach Your Baby to Sign*
+- Laura Berg, *The Baby Signing Bible*
+- Susan Goodwyn & Linda Acredolo, *Baby Minds*
+
 ### 2021 July
 - Gregory Zuckerman, *The Man Who Solved the Market*
 - Richard P. Feynman et al, *The Feynman Lectures on Physics*
@@ -442,6 +464,15 @@ like to come back to in the future.
 I often browse through books and end up abandoning them. Here's a list.
 (Honestly, most of the point here is to stop me from forgetting and trying to
 read these again.)
+
+### 2021 August
+- John A. Hupalo & Peter Mazareas, Ph.D., *Plan and Finance Your Family's
+  College Dreams*
+- Gen and Kelly Tanabe, *501 Ways for Adult Students to Pay for College*
+- Benoit B. Mandlebrot, *The Fractal Geometry of Nature*
+- Sameer Seth & M. Ajaykumar Venkatesulu, *TCP/IP Architecture, Design, and
+  Implementation in Linux*
+- Anya Kamenetz, *The Art of Screen Time*
 
 ### 2021 July
 - Samuel Karlin & Howard M. Taylor, *A First Course in Stochastic Processes*
