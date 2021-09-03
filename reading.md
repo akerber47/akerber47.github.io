@@ -10,6 +10,8 @@ sit down and think hard about what I've read in the past that's valuable.
 
 ### 2021 September
 - Kate Atkinson, *Case Histories*
+- Hwei P. Hsu, PhD, *Schaum's Outlines: Probability, Random Variables, and
+  Random Processes*
 - Timothy Zahn, *Thrawn: Ascendancy: Chaos Rising*
 
 ### 2021 August

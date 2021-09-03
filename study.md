@@ -49,11 +49,14 @@ To clarify the difference between this and the reading list:
 # Completed
 
 ### 2021
+- Stanford Stats 217 Stochastic Processes I
 - MIT 18.034 Honors Differential Equations
 - CMU 36-705 Intermediate Statistics & MIT 18.650 Statistics for Applications
 - MIT 6.046 Analysis of Algorithms
 
 Major study books:
+- Grimmet & Stirzaker, Ch 5-6
+  - a few selected exercises and problems
 - Robinson, An Introduction to Ordinary Differential Equations
   - All problems completed through Ch 12
   - A few quick problems in subsequent chapters
@@ -63,6 +66,8 @@ Major study books:
   - All starred and end of chapter problems completed
 
 Supplemental books:
+- Hwei P. Hsu, PhD, Schaum's Outlines: Probability, Random Variables, and
+  Random Processes
 - Birkoff & Rota, Ordinary Differential Equations
 - Richard Bronson, Schaum's Outlines: Differential Equations
 - Rice, Mathematical Statistics and Data Analysis
