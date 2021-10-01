@@ -1,7 +1,38 @@
 -- in progress, need to add title etc --
 -- Also need to add many purchased books (not library)
 
+### Unfinished / Unread
+- Roald Dahl, *Charlie and the Chocolate Factory*
+- Zosienka, *The Moon Keeper*
+- Harriet Ziefert & Karla Gudeon, *One Red Apple*
+- Douglas Wood & John J. Muth, *Old Turtle and the Broken Truth*
+- Bethan Woollvin, *Hansel & Gretel*
+- Douglas Wood & Dan Andreasen, *A Quiet Place*
+- Jacqueline Woodson & E. B. Lewis, *The Other Side*
+- Nancy Wood & Max Grafe, *Old Coyote*
+- Charlotte Zolotow & James Stevenson, *Say It!*
+
+### 2021 September
+- Norton Juster, *The Phantom Tollbooth*
+
+### 2021 August
+- Ed Young, *Lon Po Po*
+- Ed Young, *The Weather's Bet*
+- Ed Young, *My Mei Mei*
+- Paul Yee & Harvey Chan, *Ghost Train*
+- Sam Zuppardi, *Things To Do With Dad*
+- E. B. White, *Stuart Little*
+- A. A. Milne, *The House At Pooh Corner*
+
 ### 2021 July
+- A. A. Milne, *Winnie-the-Pooh*
+- Lindsey Yankey, *Bluebird*
+- Ed Young, *Hook*
+- Ed Young, *Mighty Moby*
+- Bethan Woollvin, *Rapunzel*
+- Shinsuke Yoshitake, *There Must Be More Than That!*
+- Shinsuke Yoshitake, *The Boring Book*
+- Charlotte Zolotow & Wendell Minor, *The Seashore Book*
 - Rotraut Susanne Berner, *All Around Bustletown: Fall*
 - Rotraut Susanne Berner, *All Around Bustletown: Spring*
 - Rotraut Susanne Berner, *All Around Bustletown: Winter*

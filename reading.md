@@ -38,6 +38,8 @@ sit down and think hard about what I've read in the past that's valuable.
 - Robert Galbraith, *The Cuckoo's Calling*
 - Robert Galbraith, *The Silkworm*
 - Anna Wiener, *Uncanny Valley: A Memoir*
+- David Graeber, *The Utopia of Rules*
+- Malcolm Harris, *Kids These Days*
 
 ### 2021 April
 - David A. Freedman, *Statistical Models: Theory and Practice*
