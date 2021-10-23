@@ -49,14 +49,20 @@ To clarify the difference between this and the reading list:
 # Completed
 
 ### 2021
+- MIT 15.401 Finance Theory I
+- Stanford Stats 218 Stochastic Processes II
+- CMU 36-401 Modern Regression
+- Stanford CS 229 & CMU 10-715 Machine Learning
 - Stanford Stats 217 Stochastic Processes I
 - MIT 18.034 Honors Differential Equations
 - CMU 36-705 Intermediate Statistics & MIT 18.650 Statistics for Applications
 - MIT 6.046 Analysis of Algorithms
 
 Major study books:
-- Grimmet & Stirzaker, Ch 5-6
+- Grimmet & Stirzaker, Ch 5-6, 12-13
   - a few selected exercises and problems
+- Cosma Shalizi, The Truth About Linear Regression
+  - All problems completed
 - Robinson, An Introduction to Ordinary Differential Equations
   - All problems completed through Ch 12
   - A few quick problems in subsequent chapters

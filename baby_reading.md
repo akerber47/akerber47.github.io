@@ -2,6 +2,10 @@
 -- Also need to add many purchased books (not library)
 
 ### Unfinished / Unread
+- Flip & Linda Nicklin, *Face to Face With Whales*
+- The Royal Ballet, *Ballet Spectacular*
+- John Robert Allman, *B Is For Ballet*
+- Dr. Jose Luis Carballido & Dr. Diego Pol, *Titanosaur*
 - Roald Dahl, *Charlie and the Chocolate Factory*
 - Zosienka, *The Moon Keeper*
 - Harriet Ziefert & Karla Gudeon, *One Red Apple*
@@ -12,10 +16,28 @@
 - Nancy Wood & Max Grafe, *Old Coyote*
 - Charlotte Zolotow & James Stevenson, *Say It!*
 
+### 2021 October
+- Catherine D. Hughes, *Little Kids First Big Book of Space*
+- Jane Yolen & Jen Corace, *Bear Outside*
+- Graeme Base, *Little Elephants*
+- Norton Juster & G. Brian Karas, *Neville*
+- Norton Juster & Chris Raschka, *Sourpuss & Sweetie Pie*
+- Graeme Base, *Jungle Drums*
+
 ### 2021 September
+- Eric Carle, *The Tiny Seed*
+- Giles Andreae & Guy Parker-Rees, *Giraffes Can't Dance*
+- Gail Gibbons, *Weather Words and What They Mean*
+- Chris Barton, *The Nutcracker Comes To America*
+- Simms Taback, *Joseph Had a Little Overcoat*
+- Norton Juster & Jules Feiffer, *The Odious Ogre*
+- Graeme Base, *The Sign of the Seahorse*
+- Graeme Base, *The Legend of the Golden Snail*
+- Graeme Base, *My Grandma Lived in Gooligulch*
 - Norton Juster, *The Phantom Tollbooth*
 
 ### 2021 August
+- Simms Taback, *This Is The House That Jack Built*
 - Ed Young, *Lon Po Po*
 - Ed Young, *The Weather's Bet*
 - Ed Young, *My Mei Mei*

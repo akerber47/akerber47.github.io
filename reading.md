@@ -8,7 +8,15 @@ I read when I can. Maybe one day I'll get this more organized. Sadly I only
 started this in July 2019, so lots of older content is lost. Maybe one day I'll
 sit down and think hard about what I've read in the past that's valuable.
 
+### 2021 October
+- Tanya Selvaratnam, *The Big Lie*
+- Erich Gamma et al, *Design Patterns*
+- Geoffrey R. Grimmett & David R. Stirzaker, *Probability and Random Processes*
+- Cosma Shalizi, *The Truth About Linear Regression*
+- Steven Levy, *Facebook: The Inside Story*
+
 ### 2021 September
+- Kate Atkinson, *Life After Life*
 - Kate Atkinson, *Case Histories*
 - Hwei P. Hsu, PhD, *Schaum's Outlines: Probability, Random Variables, and
   Random Processes*
