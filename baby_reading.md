@@ -16,6 +16,13 @@
 - Nancy Wood & Max Grafe, *Old Coyote*
 - Charlotte Zolotow & James Stevenson, *Say It!*
 
+### 2021 November
+- David Wiesner, *Robobaby*
+- Bethan Woollvin, *Bo The Brave*
+- Elli Woollard & Steven Lenton, *The Great Gran Plan*
+- Jacqueline Woodson & Rafael Lopez, *The Day You Begin*
+- Jacqueline Woodson & E.B. Lewis, *The Other Side*
+
 ### 2021 October
 - Catherine D. Hughes, *Little Kids First Big Book of Space*
 - Jane Yolen & Jen Corace, *Bear Outside*

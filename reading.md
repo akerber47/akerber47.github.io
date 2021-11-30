@@ -8,6 +8,10 @@ I read when I can. Maybe one day I'll get this more organized. Sadly I only
 started this in July 2019, so lots of older content is lost. Maybe one day I'll
 sit down and think hard about what I've read in the past that's valuable.
 
+### 2021 November
+- Jaime Cortez, *Gordo*
+- Robert Galbraith, *Troubled Blood*
+
 ### 2021 October
 - Tanya Selvaratnam, *The Big Lie*
 - Erich Gamma et al, *Design Patterns*
@@ -352,6 +356,10 @@ sit down and think hard about what I've read in the past that's valuable.
 These are books I didn't have the time to finish at the time, but would really
 like to come back to in the future.
 
+### 2021 November
+- Dave Eggers, *The Circle*
+- Lindsay Ellis, *Axiom's End*
+
 ### 2021 September
 - Caroline Criado Perez, *Invisible Women*
 - Steve Klabnik and Carol Nichols, *The Rust Programming Language*
@@ -486,6 +494,12 @@ like to come back to in the future.
 I often browse through books and end up abandoning them. Here's a list.
 (Honestly, most of the point here is to stop me from forgetting and trying to
 read these again.)
+
+### 2021 Noveber
+- Ben Lauwens & Allen B. Downey, *Think Julia*
+- Colin Gillespie & Robin Lovelace, *Efficient R Programming*
+- Joseph Schmuller, PhD, *R Projects for Dummies*
+- Brad Dayley, *Python Phrasebook*
 
 ### 2021 September
 - Heidi Murkoff & Sharon Mazel, *What to Expect Before You're Expecting*

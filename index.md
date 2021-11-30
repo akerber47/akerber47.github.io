@@ -17,3 +17,4 @@ You may be interested in my [resume](Alvin Kerber resume.pdf) *(last updated
 - [Log](archive.html) ([long page with all posts](log.html))
 - [Study](study.html)
 - [Reading](reading.html)
+- [Links](links.html)
