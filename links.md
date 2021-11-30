@@ -1,5 +1,43 @@
+# Links
+
+Very much a work in progress.
+
 ## Online Books
 - [Readings in Database Systems](http://www.redbook.io/)
+- [The Architecture of Open Source
+  Applications](http://www.aosabook.org/en/index.html)
+- [Advanced R](https://adv-r.hadley.nz/)
+- [Algorithms for Decision Making](https://algorithmsbook.com)
+
+## Academic
+- [Papers with Code](https://paperswithcode.com/)
+- [The Morning Paper](https://blog.acolyer.org/)
+
+## Corporate
+- [Jane Street](https://blog.janestreet.com/)
+  - Podcast: [Signals & Threads](https://signalsandthreads.com/)
+
+## Activities
+- [Project Euler](https://projecteuler.net)
+- [Kaggle](https://www.kaggle.com/)
+- [ICFP Programming Contest](https://www.icfpconference.org/contest.html)
+- [Advent of Code](https://adventofcode.com/)
+- [Rosalind](https://rosalind.info/about/)
+- [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam/)
+- [MIT Mystery Hunt](http://web.mit.edu/puzzle/www/)
+- [Jane Street Puzzles](https://www.janestreet.com/puzzles/)
+- [CodeForces](https://codeforces.com/)
+- [Leetcode](https://leetcode.com/)
+
+
+## Courses
+- [MIT OpenCourseWare](https://ocw.mit.edu)
+- [Stanford Engineering Everywhere](https://see.stanford.edu/)
+## Resources
+- [Detexify](https://detexify.kirelabs.org/classify.html)
+- [Colab](https://colab.research.google.com/)
+- [Heroku](https://www.heroku.com/free)
+- [AWS](https://aws.amazon.com/free/)
 
 ## Individuals
 - [Dan Luu](https://danluu.com/)
@@ -12,6 +50,26 @@
 - [Jamie Brandon](https://www.scattered-thoughts.net/)
 - [D.J. Bernstein](http://cr.yp.to/djb.html)
 - [Julia Evans](https://jvns.ca/)
+- [Aleksey Kladov](https://matklad.github.io/)
+- [Yossi Kreinin](http://yosefk.com/)
+- [Bryan Cantrill](http://dtrace.org/blogs/bmc/)
+- [Andrew Ayer](https://www.agwa.name/)
+- [Daniel P. Friedman](https://legacy.cs.indiana.edu/~dfried/)
+- [Dan Wang](https://danwang.co/)
+- [Ravid Vakil](https://math.stanford.edu/~vakil/)
+- [Mykel J. Kochenderfer](https://mykel.kochenderfer.com/)
+- [Rickard Lindberg](http://rickardlindberg.me/writing/)
+- Alan Kay [1](http://rickardlindberg.me/writing/alan-kay-notes/)
+- John Carmack [1](http://sevangelatos.com/tag/john-carmack/)
+  [2](http://number-none.com/blow/john_carmack_on_inlined_code.html)
+- [Fred Ross](https://madhadron.com)
+- [Kyle Kingsbury](https://aphyr.com/)
+
+## Interesting Languages
+- [J](https://www.jsoftware.com/#/)
+- [Rust](https://www.rust-lang.org/)
+- [Julia](https://julialang.org/)
+- [Elixir](https://elixir-lang.org/)
 
 ## Some History (memento mori)
 
@@ -24,6 +82,7 @@
 - [Medium](https://medium.com/)
 - [Ribbonfarm](https://www.ribbonfarm.com/)
 - [SlateStarCodex](https://slatestarcodex.com/archives/)
+- [The Scholar's Stage](https://scholars-stage.org/)
 - [Samzdat](https://samzdat.com/archive/)
 - [Hotel Concierge](https://hotelconcierge.tumblr.com/)
 - [Michael O. Church](https://michaelochurch.wordpress.com/)
