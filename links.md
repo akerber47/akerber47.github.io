@@ -2,21 +2,6 @@
 
 Very much a work in progress.
 
-## Online Books
-- [Readings in Database Systems](http://www.redbook.io/)
-- [The Architecture of Open Source
-  Applications](http://www.aosabook.org/en/index.html)
-- [Advanced R](https://adv-r.hadley.nz/)
-- [Algorithms for Decision Making](https://algorithmsbook.com)
-
-## Academic
-- [Papers with Code](https://paperswithcode.com/)
-- [The Morning Paper](https://blog.acolyer.org/)
-
-## Corporate
-- [Jane Street](https://blog.janestreet.com/)
-  - Podcast: [Signals & Threads](https://signalsandthreads.com/)
-
 ## Activities
 - [Project Euler](https://projecteuler.net)
 - [Kaggle](https://www.kaggle.com/)
@@ -29,10 +14,10 @@ Very much a work in progress.
 - [CodeForces](https://codeforces.com/)
 - [Leetcode](https://leetcode.com/)
 
-
 ## Courses
 - [MIT OpenCourseWare](https://ocw.mit.edu)
 - [Stanford Engineering Everywhere](https://see.stanford.edu/)
+
 ## Resources
 - [Detexify](https://detexify.kirelabs.org/classify.html)
 - [Colab](https://colab.research.google.com/)
@@ -56,7 +41,7 @@ Very much a work in progress.
 - [Andrew Ayer](https://www.agwa.name/)
 - [Daniel P. Friedman](https://legacy.cs.indiana.edu/~dfried/)
 - [Dan Wang](https://danwang.co/)
-- [Ravid Vakil](https://math.stanford.edu/~vakil/)
+- [Ravi Vakil](https://math.stanford.edu/~vakil/)
 - [Mykel J. Kochenderfer](https://mykel.kochenderfer.com/)
 - [Rickard Lindberg](http://rickardlindberg.me/writing/)
 - Alan Kay [1](http://rickardlindberg.me/writing/alan-kay-notes/)
@@ -64,12 +49,37 @@ Very much a work in progress.
   [2](http://number-none.com/blow/john_carmack_on_inlined_code.html)
 - [Fred Ross](https://madhadron.com)
 - [Kyle Kingsbury](https://aphyr.com/)
+- [Avery Pennarun](https://apenwarr.ca/log/)
+- [Patrick Collison](https://patrickcollison.com/blog)
 
 ## Interesting Languages
 - [J](https://www.jsoftware.com/#/)
 - [Rust](https://www.rust-lang.org/)
 - [Julia](https://julialang.org/)
 - [Elixir](https://elixir-lang.org/)
+- [Idris](http://docs.idris-lang.org/en/latest/index.html)
+- [Pharo](https://pharo.org/)
+
+## Online Books
+- [Readings in Database Systems](http://www.redbook.io/)
+- [The Architecture of Open Source
+  Applications](http://www.aosabook.org/en/index.html)
+- [Advanced R](https://adv-r.hadley.nz/)
+- [Algorithms for Decision Making](https://algorithmsbook.com)
+
+## Academic
+- [Papers with Code](https://paperswithcode.com/)
+- [The Morning Paper](https://blog.acolyer.org/)
+
+## Corporate
+- [Google AI](https://ai.googleblog.com/)
+- [DeepMind](https://deepmind.com/blog)
+- [Facebook AI](https://ai.facebook.com/blog)
+- [OpenAI](https://openai.com/blog/)
+- [Netflix](https://netflixtechblog.com/)
+- [Uber](https://eng.uber.com/)
+- [Jane Street](https://blog.janestreet.com/)
+  - Podcast: [Signals & Threads](https://signalsandthreads.com/)
 
 ## Some History (memento mori)
 

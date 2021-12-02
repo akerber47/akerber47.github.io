@@ -9,8 +9,8 @@ You can reach me at **A**`@`**AB**`.net`, where **A** = `alvin` and **B**
 [LinkedIn](https://www.linkedin.com/in/alvin-kerber-1576688a/), but I prefer to
 communicate via email.
 
-You may be interested in my [resume](Alvin Kerber resume.pdf) *(last updated
-2017)* or [github account](https://github.com/akerber47/).
+You may be interested in my [resume](Alvin Kerber resume.pdf)
+or [github account](https://github.com/akerber47/).
 
 ### Stuff
 
