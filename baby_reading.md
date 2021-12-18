@@ -16,7 +16,11 @@
 - Nancy Wood & Max Grafe, *Old Coyote*
 - Charlotte Zolotow & James Stevenson, *Say It!*
 
+### 2021 December
+- Kobi Yamada & Natalie Russell, *Because I Had a Teacher*
+
 ### 2021 November
+- Roald Dahl, *Charlie and the Chocolate Factory*
 - David Wiesner, *Robobaby*
 - Bethan Woollvin, *Bo The Brave*
 - Elli Woollard & Steven Lenton, *The Great Gran Plan*

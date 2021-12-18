@@ -162,10 +162,16 @@ while preparing to find a job.
 ### Applied Math (Discrete)
 - Information Theory
   - MIT 6.441 both versions
+  - Cover-Thomas
+  - MacKay
+- Bayesian inference and algorithms
+  - Gelman et al
+  - Stanford Stats 370
+  - Stanford Stats 370
+  - MacKay
+  - Murphy
 - Cryptography
 - Quantum computing
-- Modern statistical inference
-- Bayesian methods
 
 ### Applied Math (Continuous)
 - Differential equations II
@@ -175,21 +181,31 @@ while preparing to find a job.
 - Theory of Machine Learning
   - Stanford CS 229T / CMU 36-708 / CMU 36-702
 - Convex Optimization
+  - Boyd-Vangerbergen
+  - Stanford EE 364AB
+  - Luenberger-Ye
 - Optimization more generally
 - Dynamical systems
+  - Stanford EE 263
 - Control theory
 - Numerical analysis
 - Numerical linear algebra
+  - Trefethen-Bau
+  - Golub-van Loam
+  - MIT 18.335J
 - PDEs
 - Numerical solutions of PDEs
 
 ### Math
 - Probability
   - MIT 18.175
+  - Durrett
 - Fourier analysis
   - MIT 18.103
   - Stein-Shakarchi
 - Mathematical statistics
+  - MIT 18.655
+  - Bickel-Doksum
 - Asymptotic statistics
 - High-dimensional probability and statistics
 - Representation theory

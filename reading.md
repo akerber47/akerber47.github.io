@@ -8,7 +8,14 @@ I read when I can. Maybe one day I'll get this more organized. Sadly I only
 started this in July 2019, so lots of older content is lost. Maybe one day I'll
 sit down and think hard about what I've read in the past that's valuable.
 
+### 2021 December
+- Peter Gottschling, *Discovering Modern C++*
+- Kate Atkinson, *One Good Turn*
+- Natasha Pulley, *The Kingdoms*
+
 ### 2021 November
+- Tana French, *The Searcher*
+- Mana Takahashi et al, *The Manga Guide to Databases*
 - Jaime Cortez, *Gordo*
 - Robert Galbraith, *Troubled Blood*
 
@@ -494,6 +501,16 @@ like to come back to in the future.
 I often browse through books and end up abandoning them. Here's a list.
 (Honestly, most of the point here is to stop me from forgetting and trying to
 read these again.)
+
+### 2021 December
+- George Casella & Roger L. Berger, *Statistical Inference*
+- Max Brooks, *Devolution*
+- George Packer, *The Unwinding*
+- Mark Lutz, *Learning Python*
+- Mike McShaffry, *Game Coding*
+- Clare Churcher, *Beginning Database Design*
+- Sveta Smirnova, *MySQL Troubleshooting*
+- Michael Morrison, *Beginning Game Programming*
 
 ### 2021 Noveber
 - Ben Lauwens & Allen B. Downey, *Think Julia*

@@ -51,6 +51,10 @@ Very much a work in progress.
 - [Kyle Kingsbury](https://aphyr.com/)
 - [Avery Pennarun](https://apenwarr.ca/log/)
 - [Patrick Collison](https://patrickcollison.com/blog)
+- [Jurgen Geuter](https://tante.cc)
+- [Charity](https://charity.wtf)
+- [Will Larson](https://lethain.com)
+- [Slava Akhmechet](https://www.spakhm.com)
 
 ## Interesting Languages
 - [J](https://www.jsoftware.com/#/)
@@ -60,7 +64,7 @@ Very much a work in progress.
 - [Idris](http://docs.idris-lang.org/en/latest/index.html)
 - [Pharo](https://pharo.org/)
 
-## Online Books
+## Online Books (TODO)
 - [Readings in Database Systems](http://www.redbook.io/)
 - [The Architecture of Open Source
   Applications](http://www.aosabook.org/en/index.html)
@@ -80,6 +84,10 @@ Very much a work in progress.
 - [Uber](https://eng.uber.com/)
 - [Jane Street](https://blog.janestreet.com/)
   - Podcast: [Signals & Threads](https://signalsandthreads.com/)
+
+## Light
+- [SCP](https://scp-wiki.wikidot.com/)
+- [DUST](https://www.youtube.com/channel/UC7sDT8jZ76VLV1u__krUutA)
 
 ## Some History (memento mori)
 
