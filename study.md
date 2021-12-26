@@ -26,7 +26,7 @@ To clarify the difference between this and the reading list:
 
 Major study books:
 - Hastie et al, The Elements of Statistical Learning
-  - Ch 1-7, all exercises complete
+  - Ch 1-16, all exercises complete
 - Grimmet & Stirzaker, Probability and Random Processes
   - Ch 5-6, 12-13
   - a few selected exercises and problems

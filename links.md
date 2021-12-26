@@ -55,6 +55,10 @@ Very much a work in progress.
 - [Charity](https://charity.wtf)
 - [Will Larson](https://lethain.com)
 - [Slava Akhmechet](https://www.spakhm.com)
+- [Anna Wiener](https://www.annawiener.com)
+- [Susan Rigetti](https://www.susanrigetti.com)
+- [Seebs](https://www.seebs.net)
+- [Brian "Beej Jorgensen" Hall](http://beej.us)
 
 ## Interesting Languages
 - [J](https://www.jsoftware.com/#/)
