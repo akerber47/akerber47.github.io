@@ -26,7 +26,7 @@ To clarify the difference between this and the reading list:
 
 Major study books:
 - Hastie et al, The Elements of Statistical Learning
-  - Ch 1-16, all exercises complete
+  - Ch 1-16, all theory exercises complete
 - Grimmet & Stirzaker, Probability and Random Processes
   - Ch 5-6, 12-13
   - a few selected exercises and problems
@@ -38,7 +38,7 @@ Major study books:
   - All problems completed through Ch 12
   - A few quick problems in subsequent chapters
 - Wasserman, All of Statistics
-  - All problems completed through Ch 12
+  - All theory exercises complete
 - Cormen et al, Introduction to Algorithms
   - All starred exercises and end of chapter problems completed
 
@@ -159,7 +159,7 @@ while preparing to find a job.
 - 3d graphics and game programming
 - Web browsers
 
-### Applied Math (Discrete)
+### Applied Math
 - Information Theory
   - MIT 6.441 both versions
   - Cover-Thomas
@@ -167,19 +167,21 @@ while preparing to find a job.
 - Bayesian inference and algorithms
   - Gelman et al
   - Stanford Stats 370
-  - Stanford Stats 370
   - MacKay
   - Murphy
 - Cryptography
 - Quantum computing
-
-### Applied Math (Continuous)
 - Differential equations II
   - Collins book (Oxford)
 - Applied Fourier analysis
   - Stanford EE 261
+- Applied Statistical Machine Learning
+  - CMU 36-708
+  - CMU 36-702
+  - Wasserman
 - Theory of Machine Learning
-  - Stanford CS 229T / CMU 36-708 / CMU 36-702
+  - Stanford CS 229T
+  - MIT 18.657
 - Convex Optimization
   - Boyd-Vangerbergen
   - Stanford EE 364AB
@@ -208,6 +210,10 @@ while preparing to find a job.
   - Bickel-Doksum
 - Asymptotic statistics
 - High-dimensional probability and statistics
+  - CMU 36-709
+  - CMU 36-710
+  - Vershynin
+  - Wainwright
 - Representation theory
 - Real analysis
 - Functional analysis

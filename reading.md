@@ -9,6 +9,15 @@ started this in July 2019, so lots of older content is lost. Maybe one day I'll
 sit down and think hard about what I've read in the past that's valuable.
 
 ### 2021 December
+- Cosma Shalizi, *Advanced Data Analysis from an Elementary Point of View*
+- Larry Wasserman, *All of Statistics*
+- Martin Kleppman, *Designing Data-Intensive Applications*
+- Brett Slattkin, *Effective Python*
+- Timothy Falcon Crack, *Heard on the Street*
+- Greg Egan, *Zendegi*
+- Kate Atkinson, *When Will There Be Good News?*
+- Wesley Yang, *The Souls of Yellow Folk*
+- Trevor Hastie et al, *The Elements of Statistical Learning*
 - Peter Gottschling, *Discovering Modern C++*
 - Kate Atkinson, *One Good Turn*
 - Natasha Pulley, *The Kingdoms*

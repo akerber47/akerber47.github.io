@@ -59,6 +59,10 @@ Very much a work in progress.
 - [Susan Rigetti](https://www.susanrigetti.com)
 - [Seebs](https://www.seebs.net)
 - [Brian "Beej Jorgensen" Hall](http://beej.us)
+- [Izzy Muerte](https://izzys.casa)
+- [Murat Demirbas](http://muratbuffalo.blogspot.com)
+- [Soatok](https://soatok.blog/)
+- [John Regehr](https://blog.regehr.org)
 
 ## Interesting Languages
 - [J](https://www.jsoftware.com/#/)
