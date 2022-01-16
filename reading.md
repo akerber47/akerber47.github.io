@@ -8,6 +8,11 @@ I read when I can. Maybe one day I'll get this more organized. Sadly I only
 started this in July 2019, so lots of older content is lost. Maybe one day I'll
 sit down and think hard about what I've read in the past that's valuable.
 
+### 2022 January
+- Stanislaw Lem, *Solaris*
+- Mark Joshi et al, *Quant Job Interview Questions And Answers*
+- Kate Atkinson, *Behind the Scenes at the Museum*
+
 ### 2021 December
 - Cosma Shalizi, *Advanced Data Analysis from an Elementary Point of View*
 - Larry Wasserman, *All of Statistics*
@@ -19,6 +24,7 @@ sit down and think hard about what I've read in the past that's valuable.
 - Wesley Yang, *The Souls of Yellow Folk*
 - Trevor Hastie et al, *The Elements of Statistical Learning*
 - Peter Gottschling, *Discovering Modern C++*
+- Dirk Bester, *An Interview Primer for Quantitative Finance*
 - Kate Atkinson, *One Good Turn*
 - Natasha Pulley, *The Kingdoms*
 
@@ -371,6 +377,11 @@ sit down and think hard about what I've read in the past that's valuable.
 
 These are books I didn't have the time to finish at the time, but would really
 like to come back to in the future.
+
+### 2022 January
+- Kate Atkinson, *Big Sky*
+- Kim Stanley Robinson, *Red Mars*
+- Paula Polk Lillard & Lynn Lillard Jessen, *Montessori from the Start*
 
 ### 2021 November
 - Dave Eggers, *The Circle*

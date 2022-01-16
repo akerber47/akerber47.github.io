@@ -14,6 +14,19 @@ To clarify the difference between this and the reading list:
 
 # Completed
 
+### 2022
+- Stanford CS 224W Graph Learning
+- Stanford CS 246 Data Mining
+
+Supplemental books:
+- Hamilton, Graph Representation Learning
+- Goodfellow et al, Deep Learning
+- Manning et al, Introduction to Information Retrieval
+
+Supplemental practice:
+- Joshi et al
+  - All exercises Ch 3 part 1, 5, 6, 7, 8
+
 ### 2021
 - MIT 15.401 Finance Theory I
 - Stanford Stats 218 Stochastic Processes II
@@ -25,20 +38,22 @@ To clarify the difference between this and the reading list:
 - MIT 6.046 Analysis of Algorithms
 
 Major study books:
+- Wasserman, All of Statistics
+  - All theory exercises complete
 - Hastie et al, The Elements of Statistical Learning
   - Ch 1-16, all theory exercises complete
 - Grimmet & Stirzaker, Probability and Random Processes
   - Ch 5-6, 12-13
   - a few selected exercises and problems
 - Cosma Shalizi, The Truth About Linear Regression
-  - All problems completed
+  - All theory exercises completed
+- Cosma Shalizi, Advanced Data Analysis from an Elementary Point of View
+  - Ch 1-17, all theory exercises complete
 - MacKay, Information Theory, Inference, and Learning Algorithms
   - Ch 1-12, selected exercises and problems including all "rat" problems.
 - Robinson, An Introduction to Ordinary Differential Equations
   - All problems completed through Ch 12
   - A few quick problems in subsequent chapters
-- Wasserman, All of Statistics
-  - All theory exercises complete
 - Cormen et al, Introduction to Algorithms
   - All starred exercises and end of chapter problems completed
 
@@ -49,6 +64,13 @@ Supplemental books:
 - Birkoff & Rota, Ordinary Differential Equations
 - Richard Bronson, Schaum's Outlines: Differential Equations
 - Rice, Mathematical Statistics and Data Analysis
+
+Supplemental practice:
+- Leetcode 150
+- Crack, Heard on the Street
+  - All exercises Ch 1, 3, and 4
+- Bester
+  - All exercises
 
 ### 2020
 - MIT 6.006 Introduction to Algorithms
@@ -153,8 +175,11 @@ while preparing to find a job.
   - Stanford CS 231N
 - RL
   - Stanford CS 234
-- Graph Learning
-  - Stanford CS 224W
+- GANs
+  - Stanford CS 236G
+- Geometric Deep Learning
+  - Michale M. Bronstein, Petar Velickovic, etc.
+  - https://geometricdeeplearning.com
 - Graphics
 - 3d graphics and game programming
 - Web browsers
@@ -208,7 +233,11 @@ while preparing to find a job.
 - Mathematical statistics
   - MIT 18.655
   - Bickel-Doksum
+  - Keener
+  - Kendall, Advanced Theory of Statistics
 - Asymptotic statistics
+  - van der Waart
+  - Stanford Stat 300B
 - High-dimensional probability and statistics
   - CMU 36-709
   - CMU 36-710

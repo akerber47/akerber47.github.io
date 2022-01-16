@@ -2,6 +2,8 @@
 -- Also need to add many purchased books (not library)
 
 ### Unfinished / Unread
+- Roald Dahl, *Fantastic Mr. Fox*
+- J. K. Rowling, *Harry Potter and the Sorcerer's Stone: Illustrated Edition*
 - Flip & Linda Nicklin, *Face to Face With Whales*
 - The Royal Ballet, *Ballet Spectacular*
 - John Robert Allman, *B Is For Ballet*
