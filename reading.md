@@ -9,11 +9,14 @@ started this in July 2019, so lots of older content is lost. Maybe one day I'll
 sit down and think hard about what I've read in the past that's valuable.
 
 ### 2022 January
+- Kate Atkinson, *Human Croquet*
 - Stanislaw Lem, *Solaris*
 - Mark Joshi et al, *Quant Job Interview Questions And Answers*
+- Christian Mayer, *Python One-Liners*
 - Kate Atkinson, *Behind the Scenes at the Museum*
 
 ### 2021 December
+- Allen Carr, *Allen Carr's Easy Way to Stop Smoking*
 - Cosma Shalizi, *Advanced Data Analysis from an Elementary Point of View*
 - Larry Wasserman, *All of Statistics*
 - Martin Kleppman, *Designing Data-Intensive Applications*
