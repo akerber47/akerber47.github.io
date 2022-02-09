@@ -9,6 +9,10 @@ started this in July 2019, so lots of older content is lost. Maybe one day I'll
 sit down and think hard about what I've read in the past that's valuable.
 
 ### 2022 January
+- Kate Atkinson, *Emotionally Weird*
+- Stanislaw Lem, *Eden*
+- Thomas D. Wickens, *The Geometry of Multivariate Statistics*
+- Xinfeng Zhou, *A Practical Guide to Quantitative Finance Interviews*
 - Kate Atkinson, *Human Croquet*
 - Stanislaw Lem, *Solaris*
 - Mark Joshi et al, *Quant Job Interview Questions And Answers*

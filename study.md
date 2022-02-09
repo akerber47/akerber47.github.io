@@ -19,13 +19,18 @@ To clarify the difference between this and the reading list:
 - Stanford CS 246 Data Mining
 
 Supplemental books:
+- Wickens, Geometry of Multivariate Statistics
 - Hamilton, Graph Representation Learning
 - Goodfellow et al, Deep Learning
 - Manning et al, Introduction to Information Retrieval
 
 Supplemental practice:
-- Joshi et al
-  - All exercises Ch 3 part 1, 5, 6, 7, 8
+- Wilmott, Frequently Asked Questions in Quantitative Finance
+  - Selected new exercises Ch 13
+- Zhou, Practical Guide to Quantitative Finance Interviews
+  - Selected new exercises Ch 2, 4, 5, 7
+- Joshi et al, Quant Job Interview Questions and Answers
+  - All exercises Ch 3 part 1, Ch 5, 6, 7, 8
 
 ### 2021
 - MIT 15.401 Finance Theory I
@@ -189,11 +194,14 @@ while preparing to find a job.
   - MIT 6.441 both versions
   - Cover-Thomas
   - MacKay
-- Bayesian inference and algorithms
+- Bayesian inference and algorithms, ie modern (ish) applied Bayesian statistics
   - Gelman et al
   - Stanford Stats 370
   - MacKay
   - Murphy
+- Modern (ish) applied frequentist statistics
+  - Efron-Hastie
+  - Agresti, Foundations of Linear and Generalized Linear Models
 - Cryptography
 - Quantum computing
 - Differential equations II
@@ -215,6 +223,13 @@ while preparing to find a job.
 - Dynamical systems
   - Stanford EE 263
 - Control theory
+- General applied math topics
+  - MIT 18.085
+  - MIT 18.086
+  - MIT 18.300 / 18.311 (old number)
+- Applied linear algebra
+  - Strang
+  - MIT 18.065
 - Numerical analysis
 - Numerical linear algebra
   - Trefethen-Bau
