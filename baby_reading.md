@@ -2,6 +2,7 @@
 -- Also need to add many purchased books (not library)
 
 ### Unfinished / Unread
+- Roald Dahl, *The BFG*
 - Roald Dahl, *Fantastic Mr. Fox*
 - J. K. Rowling, *Harry Potter and the Sorcerer's Stone: Illustrated Edition*
 - Flip & Linda Nicklin, *Face to Face With Whales*
@@ -18,8 +19,20 @@
 - Nancy Wood & Max Grafe, *Old Coyote*
 - Charlotte Zolotow & James Stevenson, *Say It!*
 
+### 2022 February
+- David Wiesner, *I Got It!*
+- Derick Wilder & Catia Chen, *The Longest Letsgoboy*
+
+### 2022 January
+- Douglas Wood & Jon J. Muth, *Old Turtle and the Broken Truth*
+- Kenneth & Sarah Jane Wright, *Lola Dutch: When I Grow Up*
+- Oscar Wilde & S. Saelig Gallagher, *The Selfish Giant*
+- Julia Woolf, *Duck & Penguin are NOT Friends*
+- David Wiesner, *Hurricane*
+
 ### 2021 December
 - Kobi Yamada & Natalie Russell, *Because I Had a Teacher*
+- David Wiesner, *Art & Max*
 
 ### 2021 November
 - Roald Dahl, *Charlie and the Chocolate Factory*

@@ -8,6 +8,12 @@ I read when I can. Maybe one day I'll get this more organized. Sadly I only
 started this in July 2019, so lots of older content is lost. Maybe one day I'll
 sit down and think hard about what I've read in the past that's valuable.
 
+### 2022 February
+- Ursula K. LeGuin, *The Dispossessed*
+- John R. Berryhill, *C++ Scientific Programming*
+- Julien Danjou, *Serious Python*
+- David Beazley & Brian K. Jones, *Python Cookbook*
+
 ### 2022 January
 - Kate Atkinson, *Emotionally Weird*
 - Stanislaw Lem, *Eden*
@@ -385,6 +391,33 @@ sit down and think hard about what I've read in the past that's valuable.
 These are books I didn't have the time to finish at the time, but would really
 like to come back to in the future.
 
+### 2022 February
+- Kate Atkinson, *Transcription*
+- Umberto Eco, *The Mysterious Flame of Queen Loana*
+- Umberto Eco, *The Island of the Day Before*
+- Umberto Eco, *Baudolino*
+- Kim Stanley Robinson, *New York 2140*
+- Kim Stanley Robinson, *Red Moon*
+- China Mieville, *Un Lun Dun*
+- China Mieville, *Kraken*
+- Jon Gertner, *The Idea Factory*
+- Michael Hiltzik, *Dealers of Lightning*
+- Edward O. Thorpe, *A Man for All Markets*
+- Gregory Zuckerman, *The Man Who Solved the Market*
+- Roger Lowenstein, *Buffett*
+- Edward Frenkel, *Love and Math*
+- Flo Conway & Jim Siegelman, *Dark Hero of the Information Age*
+- Masha Gessen, *Perfect Rigor*
+- Steve Wozniak with Gina Smith, *iWoz*
+- Max Hastings, *The Secret War*
+- Peter F. Drucker, *Innovation and Entrepreneurship*
+- Peter F. Drucker, *On the Profession of Management*
+- Peter F. Drucker, *Management Challenges for the 21st Century*
+- Simon St. Laurent, *Introducing Erlang*
+- Michael Fogus & Chris Houser, *The Joy of Clojure*
+- Johan Thelin, *Foundations of Qt Development*
+- Hadley Wickham, *R Packages*
+
 ### 2022 January
 - Kate Atkinson, *Big Sky*
 - Kim Stanley Robinson, *Red Mars*
@@ -528,6 +561,13 @@ like to come back to in the future.
 I often browse through books and end up abandoning them. Here's a list.
 (Honestly, most of the point here is to stop me from forgetting and trying to
 read these again.)
+
+### 2022 February
+- Doug Hellmann, *The Python 3 Standard Library by Example*
+- Alex Martelli et al, *Python in a Nutshell*
+- Scott W. Ambler & Pramod J. Sadalage, *Refactoring Databases*
+- Toby Segaran & Jeff Hammerbacher ed., *Beautiful Data*
+- Hefin I. Rhys, *Machine Learning with R, the tidyverse, and mlr*
 
 ### 2021 December
 - George Casella & Roger L. Berger, *Statistical Inference*
