@@ -9,10 +9,18 @@ started this in July 2019, so lots of older content is lost. Maybe one day I'll
 sit down and think hard about what I've read in the past that's valuable.
 
 ### 2022 February
+- Paul Mealy, *Virtual and Augmented Reality for Dummies*
+- Timothy Zahn, *Thrawn: Ascendancy: Greater Good*
+- Terry Pratchett, *Going Postal*
+- Michael Lewis, *The Premonition*
+- Kate Atkinson, *Big Sky*
+- Brandon Taylor, *Real Life*
+- Terry Pratchett, *Thud!*
+- Scarlett Thomas, *Oligarchy*
+- Nassim Nicholas Taleb, *The Bed of Procrustes*
+- Kate Atkinson, *Started Early, Took My Dog*
 - Ursula K. LeGuin, *The Dispossessed*
-- John R. Berryhill, *C++ Scientific Programming*
-- Julien Danjou, *Serious Python*
-- David Beazley & Brian K. Jones, *Python Cookbook*
+- Jeffrey M. Bacidore, *Algorithmic Trading*
 
 ### 2022 January
 - Kate Atkinson, *Emotionally Weird*
@@ -413,6 +421,9 @@ like to come back to in the future.
 - Peter F. Drucker, *Innovation and Entrepreneurship*
 - Peter F. Drucker, *On the Profession of Management*
 - Peter F. Drucker, *Management Challenges for the 21st Century*
+- John R. Berryhill, *C++ Scientific Programming*
+- Julien Danjou, *Serious Python*
+- David Beazley & Brian K. Jones, *Python Cookbook*
 - Simon St. Laurent, *Introducing Erlang*
 - Michael Fogus & Chris Houser, *The Joy of Clojure*
 - Johan Thelin, *Foundations of Qt Development*
@@ -563,6 +574,7 @@ I often browse through books and end up abandoning them. Here's a list.
 read these again.)
 
 ### 2022 February
+- Charles Seife, *Hawking Hawking*
 - Doug Hellmann, *The Python 3 Standard Library by Example*
 - Alex Martelli et al, *Python in a Nutshell*
 - Scott W. Ambler & Pramod J. Sadalage, *Refactoring Databases*
