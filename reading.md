@@ -8,6 +8,18 @@ I read when I can. Maybe one day I'll get this more organized. Sadly I only
 started this in July 2019, so lots of older content is lost. Maybe one day I'll
 sit down and think hard about what I've read in the past that's valuable.
 
+### 2022 March
+- Dan Ariely, *Predictably Irrational*
+- Robin Li, *Artificial Intelligence Revolution*
+- Nassim Nicholas Taleb, *The Black Swan*
+- Terry Pratchett, *Snuff*
+- Nassim Nicholas Taleb, *Skin in the Game*
+- Agustina Bazterrica, *Tender Is the Flesh*
+- Hari Kunzru, *Red Pill*
+- Sarah Chayes, *On Corruption in America*
+- Terry Pratchett, *Unseen Academicals*
+- Michael J. Benton, *Dinosaurs*
+
 ### 2022 February
 - Paul Mealy, *Virtual and Augmented Reality for Dummies*
 - Timothy Zahn, *Thrawn: Ascendancy: Greater Good*
@@ -398,6 +410,13 @@ sit down and think hard about what I've read in the past that's valuable.
 
 These are books I didn't have the time to finish at the time, but would really
 like to come back to in the future.
+
+### 2022 March
+- Steve Oualline, *How Not to Program in C++*
+- Dennis Andriesse, *Practical Binary Analysis*
+- David Vandevoorde et al, *C++ Templates: The Complete Guide*
+- Chas Emerick etal, *Clojure Programming*
+- Dave Taylor & Brandon Perry, *Wicked Cool Shell Scripts*
 
 ### 2022 February
 - Kate Atkinson, *Transcription*

@@ -38,7 +38,7 @@ Supplemental practice:
 - CMU 36-401 Modern Regression
 - Stanford CS 229 & CMU 10-715 Machine Learning
 - Stanford Stats 217 Stochastic Processes I
-- MIT 18.034 Honors Differential Equations
+- MIT 18.034 Differential Equations
 - CMU 36-705 Intermediate Statistics & MIT 18.650 Statistics for Applications
 - MIT 6.046 Analysis of Algorithms
 
