@@ -20,6 +20,7 @@
 - Charlotte Zolotow & James Stevenson, *Say It!*
 
 ### 2022 February
+- Mo Willems, *Don't Let the Pigeon Stay Up Late!*
 - David Wiesner, *I Got It!*
 - Derick Wilder & Catia Chen, *The Longest Letsgoboy*
 

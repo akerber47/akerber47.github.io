@@ -417,6 +417,18 @@ like to come back to in the future.
 - David Vandevoorde et al, *C++ Templates: The Complete Guide*
 - Chas Emerick etal, *Clojure Programming*
 - Dave Taylor & Brandon Perry, *Wicked Cool Shell Scripts*
+- Carl Albing et al, *bash Cookbook*
+- Jamis Buck, *The Ray Tracer Challenge*
+- Jan Erik Solem, *Programming Computer Vision with Python*
+- Edwin Brady, *Type-Driven Development with Idris*
+- Norman Matloff, *The Art of R Programming*
+- Edward Angel, *Interactive Computer Graphics*
+- Luke Benstead, *Beginning OpenGL Game Programming*
+- Rick Parent, *Computer Animation: Algorithms and Techniques*
+- Aaftab Munshi et al, *OpenGL ES 2.0 Programming Guide*
+- Dave Shreiner et al, *OpenGL Programming Guide*
+- Clifford A. Pickover, *Mazes for the Mind*
+- John Calcote, *Autotools*
 
 ### 2022 February
 - Kate Atkinson, *Transcription*
@@ -591,6 +603,17 @@ like to come back to in the future.
 I often browse through books and end up abandoning them. Here's a list.
 (Honestly, most of the point here is to stop me from forgetting and trying to
 read these again.)
+
+### 2022 March
+- Gerard Maas & Francois Garillot, *Stream Processing with Apache Spark*
+- Jeff Carpenter & Eben Hewitt, *Cassandra: the Definite Guide*
+- Kyle Banker etal, *MongoDB in Action*
+- Debra Cameron et al, *Learning GNU Emacs*
+- Andrew Campanella, *The School Choice Roadmap*
+- Dane Hillard, *Practices of the Python Pro*
+- Mark Bittman, *Animal, Vegetable, Junk*
+- Ursula K. LeGuin, *Always Coming Home*
+- James Meek, *To Calais, in Ordinary Time*
 
 ### 2022 February
 - Charles Seife, *Hawking Hawking*
