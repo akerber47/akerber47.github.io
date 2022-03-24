@@ -9,6 +9,13 @@ started this in July 2019, so lots of older content is lost. Maybe one day I'll
 sit down and think hard about what I've read in the past that's valuable.
 
 ### 2022 March
+- David Beazley & Brian K. Jones, *Python Cookbook*
+- Kate Atkinson, *Transcription*
+- Lindsay Ellis, *Axiom's End*
+- Brandon Stanton, *Humans of New York*
+- Emmanuel Derman, *My Life As a Quant*
+- Turney Duff, *The Buy Side*
+- Sam Polk, *For the Love of Money*
 - Dan Ariely, *Predictably Irrational*
 - Robin Li, *Artificial Intelligence Revolution*
 - Nassim Nicholas Taleb, *The Black Swan*
@@ -412,6 +419,13 @@ These are books I didn't have the time to finish at the time, but would really
 like to come back to in the future.
 
 ### 2022 March
+- David Calavera & Lorenzo Fontana, *Linux Observability with BPF*
+- Steve Parker, *Shell Scripting*
+- Ed Miller, *Getting Started in Hold 'Em*
+- Ursula K. LeGuin, *The Wind's Twelve Quarters*
+- Douglas R. Hofstadter, *Metamagical Themas*
+- Michael Lewis, *The Undoing Project*
+- Kate Atkinson, *A God in Ruins*
 - Steve Oualline, *How Not to Program in C++*
 - Dennis Andriesse, *Practical Binary Analysis*
 - David Vandevoorde et al, *C++ Templates: The Complete Guide*
@@ -605,6 +619,7 @@ I often browse through books and end up abandoning them. Here's a list.
 read these again.)
 
 ### 2022 March
+- Jake VanderPlas, *Python Data Science Handbook*
 - Gerard Maas & Francois Garillot, *Stream Processing with Apache Spark*
 - Jeff Carpenter & Eben Hewitt, *Cassandra: the Definite Guide*
 - Kyle Banker etal, *MongoDB in Action*

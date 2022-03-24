@@ -19,7 +19,20 @@
 - Nancy Wood & Max Grafe, *Old Coyote*
 - Charlotte Zolotow & James Stevenson, *Say It!*
 
+### 2022 March
+- Mo Willems, *Sam the Most Scaredy-Cat Kid in the Whole World*
+- Margaret Wild & Frey Blackwood, *The Feather*
+- Kobi Yamada & Gabriella Barouch, *Maybe*
+- Sam Wedelich, *Chicken Little and the Big Bad Wolf*
+- Mo Willems, *Nanette's Baguette*
+- Mo Willems, *Edwina: the Dinosaur Who Didn't Know She Was Extinct*
+
 ### 2022 February
+- Walt Whitman & Loren Long, *When I Heard the Learn'd Astronomer*
+- David Wiesner, *Mr. Wuffles*
+- Jeanne Willis & Jarvis, *Poles Apart*
+- Mo Willems & Amber Ren, *Because*
+- Mo Willems, *Leonardo the Terrible Monster*
 - Mo Willems, *Don't Let the Pigeon Stay Up Late!*
 - David Wiesner, *I Got It!*
 - Derick Wilder & Catia Chen, *The Longest Letsgoboy*
