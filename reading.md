@@ -9,6 +9,9 @@ started this in July 2019, so lots of older content is lost. Maybe one day I'll
 sit down and think hard about what I've read in the past that's valuable.
 
 ### 2022 March
+- Benoit B. Mandelbrot, *The Fractalist*
+- Edward O. Thorp, *A Man for All Markets*
+- Gregory Zuckerman, *The Man Who Solved the Market*
 - David Beazley & Brian K. Jones, *Python Cookbook*
 - Kate Atkinson, *Transcription*
 - Lindsay Ellis, *Axiom's End*
@@ -418,6 +421,16 @@ sit down and think hard about what I've read in the past that's valuable.
 These are books I didn't have the time to finish at the time, but would really
 like to come back to in the future.
 
+### 2022 April
+- Ann Leckie, *Provenance*
+- Ann Leckie, *The Raven Tower*
+- Alice Schroeder, *The Snowball: Warren Buffett and the Business of Life*
+- Robert J. Shiller, *Irrational Exuberance*
+- Nassim Nicholas Taleb, *Antifragile*
+- Nassim Nicholas Taleb, *Fooled by Randomness*
+- Maria Konnikova, *The Biggest Bluff*
+- Kate Atkinson, *Not the End of the World*
+
 ### 2022 March
 - David Calavera & Lorenzo Fontana, *Linux Observability with BPF*
 - Steve Parker, *Shell Scripting*
@@ -452,7 +465,7 @@ like to come back to in the future.
 - Kim Stanley Robinson, *New York 2140*
 - Kim Stanley Robinson, *Red Moon*
 - China Mieville, *Un Lun Dun*
-- China Mieville, *Kraken*
+- China Mieville, *Krakenc
 - Jon Gertner, *The Idea Factory*
 - Michael Hiltzik, *Dealers of Lightning*
 - Edward O. Thorpe, *A Man for All Markets*
@@ -469,7 +482,7 @@ like to come back to in the future.
 - John R. Berryhill, *C++ Scientific Programming*
 - Julien Danjou, *Serious Python*
 - David Beazley & Brian K. Jones, *Python Cookbook*
-- Simon St. Laurent, *Introducing Erlang*
+- Simon St. Laurent, *Introducing Erlangk
 - Michael Fogus & Chris Houser, *The Joy of Clojure*
 - Johan Thelin, *Foundations of Qt Development*
 - Hadley Wickham, *R Packages*

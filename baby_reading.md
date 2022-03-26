@@ -18,8 +18,25 @@
 - Jacqueline Woodson & E. B. Lewis, *The Other Side*
 - Nancy Wood & Max Grafe, *Old Coyote*
 - Charlotte Zolotow & James Stevenson, *Say It!*
+- E. B. White, *Charlotte's Web*
+- Brian Wildsmith, *Pelican*
+- Odile Weulersse & Rebecca Dautremer, *Nasreddine*
+- Rosemary Wells & Jerry Pinkney, *The Welcome Chair*
+- Brian Collier, *We Shall Overcome*
+- Ferida Wolff & Katie Keller, *Seven Loaves of Bread*
+- Jacqueline Woodson & Rafael Lopez, *The Year We Learned to Fly*
+- Jacqueline Woodson & James Ransome, *This Is the Rope*
+- Anna Walker, *Lottie and Walter*
+- David Wisniewski, *Rain Player*
+- Laurence Yep et al, *The City of Dragons*
+- Anna Walker, *Peggy*
 
 ### 2022 March
+- Kobi Yamada & Elise Hurst, *Trying*
+- Kobi Yamada & Mae Besom, *What Do You Do With a Problem?*
+- Martin Widmark & Emilia Dziubak, *The House of Lost and Found*
+- Yin & Chris Soentpiet, *Coolies*
+- Yin & Chris Soentpiet, *Brothers*
 - Mo Willems, *Sam the Most Scaredy-Cat Kid in the Whole World*
 - Margaret Wild & Frey Blackwood, *The Feather*
 - Kobi Yamada & Gabriella Barouch, *Maybe*
@@ -28,6 +45,7 @@
 - Mo Willems, *Edwina: the Dinosaur Who Didn't Know She Was Extinct*
 
 ### 2022 February
+- Mo Willems & Jon J Muth, *City Dog, Country Frog*
 - Walt Whitman & Loren Long, *When I Heard the Learn'd Astronomer*
 - David Wiesner, *Mr. Wuffles*
 - Jeanne Willis & Jarvis, *Poles Apart*
@@ -38,6 +56,8 @@
 - Derick Wilder & Catia Chen, *The Longest Letsgoboy*
 
 ### 2022 January
+- Jeanne Willis & Briony May Smith, *Stardust*
+- Brendan Wenzel, *A Stone Sat Still*
 - Douglas Wood & Jon J. Muth, *Old Turtle and the Broken Truth*
 - Kenneth & Sarah Jane Wright, *Lola Dutch: When I Grow Up*
 - Oscar Wilde & S. Saelig Gallagher, *The Selfish Giant*
