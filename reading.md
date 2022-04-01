@@ -9,8 +9,6 @@ started this in July 2019, so lots of older content is lost. Maybe one day I'll
 sit down and think hard about what I've read in the past that's valuable.
 
 ### 2022 March
-- Benoit B. Mandelbrot, *The Fractalist*
-- Edward O. Thorp, *A Man for All Markets*
 - Gregory Zuckerman, *The Man Who Solved the Market*
 - David Beazley & Brian K. Jones, *Python Cookbook*
 - Kate Atkinson, *Transcription*
@@ -20,6 +18,8 @@ sit down and think hard about what I've read in the past that's valuable.
 - Turney Duff, *The Buy Side*
 - Sam Polk, *For the Love of Money*
 - Dan Ariely, *Predictably Irrational*
+- James G. Skakoon, *The Unwritten Laws of Engineering*
+- Robert Jackall, *Moral Mazes*
 - Robin Li, *Artificial Intelligence Revolution*
 - Nassim Nicholas Taleb, *The Black Swan*
 - Terry Pratchett, *Snuff*
@@ -428,6 +428,8 @@ like to come back to in the future.
 - Robert J. Shiller, *Irrational Exuberance*
 - Nassim Nicholas Taleb, *Antifragile*
 - Nassim Nicholas Taleb, *Fooled by Randomness*
+- Benoit B. Mandelbrot, *The Fractalist*
+- Edward O. Thorp, *A Man for All Markets*
 - Maria Konnikova, *The Biggest Bluff*
 - Kate Atkinson, *Not the End of the World*
 
@@ -644,12 +646,20 @@ read these again.)
 - James Meek, *To Calais, in Ordinary Time*
 
 ### 2022 February
+- Elizabeth Anderson, *Private Government*
 - Charles Seife, *Hawking Hawking*
 - Doug Hellmann, *The Python 3 Standard Library by Example*
 - Alex Martelli et al, *Python in a Nutshell*
 - Scott W. Ambler & Pramod J. Sadalage, *Refactoring Databases*
 - Toby Segaran & Jeff Hammerbacher ed., *Beautiful Data*
 - Hefin I. Rhys, *Machine Learning with R, the tidyverse, and mlr*
+
+### 2021 January
+- Antonio Gulli, *A Collection of Data Science Interview Questions Solved in
+  Python and Spark*
+- Emma Bostian, *De-Coding the Technical Interview Process*
+- Rylan Liu, *System Design Interview Fundamentals*
+- Nitin Suri, *Cracking the Machine Learning Interview*
 
 ### 2021 December
 - George Casella & Roger L. Berger, *Statistical Inference*
